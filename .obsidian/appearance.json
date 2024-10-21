@@ -1,1 +1,9 @@
-{}
+{
+  "accentColor": "",
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "textFontFamily": "Cascadia Code",
+  "interfaceFontFamily": "Cascadia Code",
+  "baseFontSize": 16,
+  "monospaceFontFamily": "Cascadia Code"
+}

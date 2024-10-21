@@ -1,41 +1,66 @@
 {
   "main": {
-    "id": "26ac403d83230e4c",
+    "id": "9ee8f7b5acf1d524",
     "type": "split",
     "children": [
       {
-        "id": "1f949c385ccb6545",
+        "id": "55cf886bc165d42e",
         "type": "tabs",
         "children": [
           {
-            "id": "367e748de82de0d4",
+            "id": "eec8065d72eac302",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Something.md",
+                "file": "Languages/German/Grammatik Aktiv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Something"
+              "title": "Grammatik Aktiv"
+            }
+          },
+          {
+            "id": "6919294c1e3dba5d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ce961b4dfb5e03b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/English/Vocabulary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vocabulary"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6bad076234214db4",
+    "id": "4828a245bd4ed5c2",
     "type": "split",
     "children": [
       {
-        "id": "bab13bf7d8b44a14",
+        "id": "4425afc02c86f109",
         "type": "tabs",
         "children": [
           {
-            "id": "8a9d3949cd5bcd5d",
+            "id": "73e2c7f509b53561",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,13 +72,13 @@
             }
           },
           {
-            "id": "2b57b2bf8a6cde36",
+            "id": "5afa344a2dcae8d2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -64,7 +89,7 @@
             }
           },
           {
-            "id": "f593bde89d88d711",
+            "id": "4a989b8e5b639b81",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,23 +102,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279.5
   },
   "right": {
-    "id": "4b42814828976366",
+    "id": "e5c797fb8a98fcc5",
     "type": "split",
     "children": [
       {
-        "id": "00f2867509755d54",
+        "id": "1ac93533ce2a65ff",
         "type": "tabs",
         "children": [
           {
-            "id": "b109d9ad4344c9d3",
+            "id": "4bc1f0d68dff1681",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Something.md",
+                "file": "Languages/German/Grammatik Aktiv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +128,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Something"
+              "title": "Backlinks for Grammatik Aktiv"
             }
           },
           {
-            "id": "c164a9bda4ee8a7e",
+            "id": "cf98db66562e1d2f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Something.md",
+                "file": "Languages/German/Grammatik Aktiv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Something"
+              "title": "Outgoing links from Grammatik Aktiv"
             }
           },
           {
-            "id": "e8ad4cc890dad087",
+            "id": "f782079d203cb7ac",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,36 +159,273 @@
             }
           },
           {
-            "id": "3d0f4941116a6b2e",
+            "id": "c94eb0969102e8c1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Something.md"
+                "file": "Languages/German/Grammatik Aktiv.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Something"
+              "title": "Outline of Grammatik Aktiv"
+            }
+          },
+          {
+            "id": "ab70324109518f97",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3f89480e990c76cd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4a626ac464fb2d8a",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ebe950d5894ad3b9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "75db1b990903ae20",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ddc78b0f6317439a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f4f0b00db93f3b8d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a3698bd762b802f7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5310550fcdb41645",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "978f51bf31fa8e1e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "98ac42401239d509",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f1d349dbb0336f43",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d9646d3239afd7de",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "738b04decebdc570",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "d46aa2bffaef2f4f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1909b19cdf969c69",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "66a8c1585a2a63bd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "dfb5d0a868e1033a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 17
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "367e748de82de0d4",
+  "active": "738b04decebdc570",
   "lastOpenFiles": [
-    "Something.md"
+    "Languages/English/Vocab_Unit_1_2.md",
+    "something new.md",
+    "Languages/English/Vocabulary.md",
+    "Languages/German/Grammatik Aktiv.md",
+    "Programming/HTML/HTML Basics.md",
+    "Languages/Languages.md",
+    "Kanban.md",
+    "Programming/HTML/HTML.md",
+    "Programming/Programming.md",
+    "MATHEMATICS/MATHEMATICS.md",
+    "Remote/something.md",
+    "Languages/German/German A1 Vocab.md",
+    "Remote",
+    "Languages/German/Begegnungen A1.md",
+    "MATHEMATICS/Մաթ․ անալիզ/Որոշյալ Ինտեգրալ.md",
+    "MATHEMATICS/Մաթ․ անալիզ/Մաթ․ անալիզ.md",
+    "MATHEMATICS/Մաթ․ տրամաբանություն/2.Պրեդիկատներ.md",
+    "MATHEMATICS/Մաթ․ տրամաբանություն/3.Քվանտորներ.md",
+    "MATHEMATICS/Մաթ․ տրամաբանություն/1.Ասույթների հաշիվ.md",
+    "Untitled Kanban.md",
+    "Languages/English/English.md",
+    "MATHEMATICS/Անալիտիկ երկրաչափություն/3․Երկու վեկտորներով կազմած անկյուն, վեկտորի պրոյեկցիա առանցքի վրա.md",
+    "MATHEMATICS/Անալիտիկ երկրաչափություն/4. Վեկտորների գծային կախվածություն և անկախություն.md",
+    "MATHEMATICS/Անալիտիկ երկրաչափություն/2․Վեկտորի գաղափարը. Գծային գործողություններ վեկտորների հետ.md",
+    "MATHEMATICS/Հավ․ տես/1․Հավանականությունների տեսության հիմնական հասկացությունները.md",
+    "Programming/Python/Python.md",
+    "Finance/Finance.md",
+    "Languages",
+    "Untitled.canvas",
+    "Docs/Pasted image 20240929155618.png",
+    "Untitled 1.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Docs/Pasted image 20240928202652.png",
+    "MATHEMATICS/Գծային հանրահաշիվ",
+    "Languages/German",
+    "Programming/HTML",
+    "Docs/Pasted image 20240925231825.png",
+    "Finance/Busyness Law",
+    "Docs/photo_5418051491459097185_y.jpg",
+    "Docs/Pasted image 20240915205714.png",
+    "Docs/Pasted image 20240915204325.png",
+    "Docs/Pasted image 20240915202319.png",
+    "Docs/Pasted image 20240914235704.png",
+    "Docs/Pasted image 20240914183653.png",
+    "Docs/Pasted image 20240914183626.png",
+    "MATHEMATICS/Անալիտիկ երկրաչափություն",
+    "MATHEMATICS/Հավ․ տես",
+    "MATHEMATICS",
+    "MATHEMATICS/Մաթ․ անալիզ"
   ]
 }
