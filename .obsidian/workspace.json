@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHEMATICS/Անալիտիկ երկրաչափություն/Անալիտիկ երկրաչափություն.md",
+                "file": "Languages/German/German A1 Vocab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Անալիտիկ երկրաչափություն"
+              "title": "German A1 Vocab"
             }
           }
         ]
@@ -147,8 +147,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -160,9 +160,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8853743a2302f598",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -184,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "367e748de82de0d4",
+  "active": "8853743a2302f598",
   "lastOpenFiles": [
+    "Languages/German/German.md",
+    "MATHEMATICS/Անալիտիկ երկրաչափություն/Անալիտիկ երկրաչափություն.md",
     "MATHEMATICS/MATHEMATICS.md",
     "Languages/Languages.md",
     "Something.md",
@@ -215,13 +227,11 @@
     "Physics/Physics Basics.md",
     "MATHEMATICS/Մաթ․ անալիզ/Որոշյալ Ինտեգրալ.md",
     "MATHEMATICS/Մաթ․ անալիզ/Մաթ․ անալիզ.md",
-    "MATHEMATICS/Անալիտիկ երկրաչափություն/Անալիտիկ երկրաչափություն.md",
     "MATHEMATICS/Անալիտիկ երկրաչափություն/3․Երկու վեկտորներով կազմած անկյուն, վեկտորի պրոյեկցիա առանցքի վրա.md",
     "MATHEMATICS/Անալիտիկ երկրաչափություն/4. Վեկտորների գծային կախվածություն և անկախություն.md",
     "MATHEMATICS/Անալիտիկ երկրաչափություն/2․Վեկտորի գաղափարը. Գծային գործողություններ վեկտորների հետ.md",
     "MATHEMATICS/Անալիտիկ երկրաչափություն/1.Դետերմինանտներ.md",
     "MATHEMATICS/Հավ․ տես/Հավ․ տես.md",
-    "MATHEMATICS/Հավ․ տես/3․Հավանականության դասական սահմանում, գումարման թեորեմներ, երկրաչափական.md",
     "Docs/Pasted image 20240915205714.png",
     "Docs/photo_5418051491459097185_y.jpg",
     "Docs/Screenshot 2024-07-12 002306.png",
