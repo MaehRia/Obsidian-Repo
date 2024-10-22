@@ -11,10 +11,14 @@
             "id": "367e748de82de0d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MATHEMATICS/Անալիտիկ երկրաչափություն/Անալիտիկ երկրաչափություն.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Անալիտիկ երկրաչափություն"
             }
           }
         ]
@@ -146,14 +150,23 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "412cd5534c6c429d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc4da9abf3b39aa8",
+  "active": "367e748de82de0d4",
   "lastOpenFiles": [
+    "MATHEMATICS/MATHEMATICS.md",
+    "Languages/Languages.md",
     "Something.md",
     "spredsheet1.xlsx",
     "Spredsheet.xlsx",
@@ -207,8 +222,6 @@
     "MATHEMATICS/Անալիտիկ երկրաչափություն/1.Դետերմինանտներ.md",
     "MATHEMATICS/Հավ․ տես/Հավ․ տես.md",
     "MATHEMATICS/Հավ․ տես/3․Հավանականության դասական սահմանում, գումարման թեորեմներ, երկրաչափական.md",
-    "MATHEMATICS/Հավ․ տես/2.Կոմբինատորիկայի տարրերը.md",
-    "MATHEMATICS/Հավ․ տես/1․Հավանականությունների տեսության հիմնական հասկացությունները.md",
     "Docs/Pasted image 20240915205714.png",
     "Docs/photo_5418051491459097185_y.jpg",
     "Docs/Screenshot 2024-07-12 002306.png",
