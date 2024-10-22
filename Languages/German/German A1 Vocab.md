@@ -330,6 +330,10 @@ town, city
 plural: Städte
 <!--SR:!2024-10-23,2,230-->
 
+schlafzimmer
+?
+bedroom
+
 Schweden(Schwedisch)
 ?
 Sweden(Swedish)
