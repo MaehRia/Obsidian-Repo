@@ -178,12 +178,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d5593ca2d64cc6e0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -206,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "367e748de82de0d4",
+  "active": "d5593ca2d64cc6e0",
   "lastOpenFiles": [
     "Languages/German/Begegnungen A1.md",
     "Languages/German/German A1 Vocab.md",
