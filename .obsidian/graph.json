@@ -11,14 +11,14 @@
       "query": "path:Programming  ",
       "color": {
         "a": 1,
-        "rgb": 9722564
+        "rgb": 12083966
       }
     },
     {
       "query": "path:Finance path:Finance  ",
       "color": {
         "a": 1,
-        "rgb": 5327334
+        "rgb": 8388863
       }
     },
     {
@@ -26,6 +26,13 @@
       "color": {
         "a": 1,
         "rgb": 4839142
+      }
+    },
+    {
+      "query": "path:Languages  ",
+      "color": {
+        "a": 1,
+        "rgb": 28415
       }
     }
   ],
@@ -35,10 +42,10 @@
   "nodeSizeMultiplier": 0.89968814968815,
   "lineSizeMultiplier": 0.94043659043659,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 9.83367983367983,
-  "linkStrength": 0.512474012474013,
+  "centerStrength": 0.109147609147609,
+  "repelStrength": 14.989604989605,
+  "linkStrength": 0.537422037422037,
   "linkDistance": 144,
-  "scale": 0.12028741895539516,
-  "close": true
+  "scale": 0.09049778346452088,
+  "close": false
 }
