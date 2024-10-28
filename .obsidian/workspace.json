@@ -11,10 +11,14 @@
             "id": "1d07a353fd1714d3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MATHEMATICS/Հավ․ տես/2.Կոմբինատորիկայի տարրերը.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.Կոմբինատորիկայի տարրերը"
             }
           }
         ]
@@ -231,8 +235,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "0b8601e8b3afac90",
+  "active": "1d07a353fd1714d3",
   "lastOpenFiles": [
+    "MATHEMATICS/Հավ․ տես/3․Հավանականության դասական սահմանում, գումարման թեորեմներ, երկրաչափական.md",
+    "MATHEMATICS/Հավ․ տես/2.Կոմբինատորիկայի տարրերը.md",
+    "MATHEMATICS/Հավ․ տես/1․Հավանականությունների տեսության հիմնական հասկացությունները.md",
+    "MATHEMATICS/Հավ․ տես/Հավ․ տես.md",
+    "MATHEMATICS/Անալիտիկ երկրաչափություն/3․Երկու վեկտորներով կազմած անկյուն, վեկտորի պրոյեկցիա առանցքի վրա.md",
+    "MATHEMATICS/Անալիտիկ երկրաչափություն/4. Վեկտորների գծային կախվածություն և անկախություն.md",
     "Languages/German/German.md",
     "Languages/Languages.md",
     "Languages/German/Grammatik Aktiv.md",
@@ -242,7 +252,6 @@
     "Remote/something.md",
     "Languages/German/Begegnungen A1.md",
     "Languages/German/German A1 Vocab.md",
-    "MATHEMATICS/Անալիտիկ երկրաչափություն/4. Վեկտորների գծային կախվածություն և անկախություն.md",
     "MATHEMATICS/Անալիտիկ երկրաչափություն/Անալիտիկ երկրաչափություն.md",
     "Something.md",
     "spredsheet1.xlsx",
@@ -260,15 +269,10 @@
     "Programming/C++, OOP/C++.md",
     "Programming/C++, OOP/String and Stringstream class.md",
     "Programming/TumoLabs.md",
-    "Programming/Programming.md",
-    "Programming/Pascal Naming Convention.md",
     "Programming/Python",
     "Programming/HTML",
-    "Programming/Machine Learning.md",
     "Programming/C++, OOP",
     "Programming",
-    "Physics/Physics Basics.md",
-    "MATHEMATICS/Մաթ․ անալիզ/Որոշյալ Ինտեգրալ.md",
     "Docs/Pasted image 20240915205714.png",
     "Docs/photo_5418051491459097185_y.jpg",
     "Docs/Screenshot 2024-07-12 002306.png",
