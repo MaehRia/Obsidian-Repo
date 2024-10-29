@@ -36,6 +36,10 @@ arbeiten
 to work
 <!--SR:!2024-10-29,3,256-->
 
+alleine
+?
+in solitude
+
 # B
 
 Begrüßen
@@ -72,6 +76,10 @@ bequem
 ?
 comfortable
 <!--SR:!2024-10-29,3,256-->
+
+bedeuten
+?
+to signify something
 
 # C
 
@@ -272,6 +280,11 @@ das Messer
 knife
 <!--SR:!2024-10-27,1,216-->
 
+Monat
+?
+month
+plural: Monate
+
 # N
 
 der Nachname
@@ -289,6 +302,10 @@ der Nachbar
 neighbor
 plural: Nachbarn
 <!--SR:!2024-10-27,1,233-->
+
+nehmen
+?
+to take something
 
 # O
 # P
@@ -335,6 +352,10 @@ Regal
 ?
 shelves
 <!--SR:!2024-10-27,1,216-->
+
+reden
+?
+to talk
 
 # S
 
@@ -385,6 +406,10 @@ school
 Schüler(Schülerin)
 <!--SR:!2024-10-27,1,233-->
 
+schreiben
+?
+to write
+
 # T
 
 (das or der)teil
@@ -419,6 +444,10 @@ der Ukraine(Ukrainer)
 ?
 Ukraine(Ukrainian)
 <!--SR:!2024-11-10,15,296-->
+
+unsere
+?
+our(s)
 
 # V
 

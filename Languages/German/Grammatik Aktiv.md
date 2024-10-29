@@ -17,7 +17,7 @@ es - sie
 
 Ex.1
 
-1. Sie sprechen Deutsch.
+1. Wir sprechen Deutsch.
 2. Haben Sie Zeit?
 3. Hilfst du mir?
 4. Er ist Programmierer.
@@ -52,4 +52,48 @@ Ex.5
 1. Sie
 2. Er
 3. ich
-4. 
+4. du
+5. Sie
+6. ich
+7. Es
+8. ich
+9. du
+10. ich
+
+Ex. 6
+
+1. du
+2. Sie
+3. ihr
+4. Sie
+
+# Kapitel 2. Ich komme, du kommst
+
+practice:
+
+ich komme, du kommst, er-sie-es kommt, wir kommen, ihr kommt, sie-sie kommen
+
+ich arbeite, du arbeitest, er-sie-es arbeitet, wir arbeiten, ihr arbeiten, sie-Sie arbeiten
+
+ich heiße, du heißt, er-sie-es heißt, wir heißen, ihr heißt, sie-Sie heißen
+
+Ex. 1
+
+1. kommst
+2. komme
+3. kommt
+4. wohnt
+5. wohnen
+6. arbeitest
+7. heißen
+8. heiße
+9. kommen
+10. komme
+11. kommt
+12. wohnen
+
+Ex.2
+
+1. F
+2. 
+3. 
