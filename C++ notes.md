@@ -38,3 +38,9 @@ for (size_t i = 0; i < numbers.size(); ++i) {
 **`int`**:
 
 - More appropriate for **general-purpose calculations** where negative numbers might be involved or when the potential size of numbers won't exceed the limits of `int`.
+
+### 4.  Potential Pitfalls
+
+**Mixing `size_t` and `int`**:
+
+- Be careful when comparing or mixing `size_t` and `int`. Since `size_t` is unsigned, operations that mix `int` and `size_t` can produce unexpected results if not handled properly, especially in comparisons.
