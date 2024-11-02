@@ -110,6 +110,12 @@ $$\begin{equation}
 \end{pmatrix}
 \end{equation}$$
 
+```{toggle}
+Some hidden toggle content!
+
+![](../images/cool.jpg)
+```
+
 
 # A
 # B
