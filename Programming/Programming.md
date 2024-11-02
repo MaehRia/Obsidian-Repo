@@ -4,15 +4,13 @@
 type: folder_brief_live
 ```
  
-[[C++]]
-	[[C++ Workbook.pdf]]
-	[[String and Stringstream class]]
+[[C++, OOP]]
 
 [[HTML]]
-	[[HTML Basics]]
 
-[[Python Course for Beginners + ML]]
-	[[Python]]
+[[Python]]
+
+
 
 [[Machine Learning]]
 
