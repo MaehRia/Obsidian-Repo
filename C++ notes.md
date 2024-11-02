@@ -1,6 +1,9 @@
 
 # size_t VS int
 
+Size_t is always unsigned type. An **unsigned type** in C++ is a data type that can only represent non-negative values (zero and positive numbers).
+
+
 ### 1. Definition and purpose
 
 - **`size_t`**:
