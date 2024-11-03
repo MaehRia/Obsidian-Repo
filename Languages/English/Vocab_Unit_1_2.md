@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/diowr1sh#QeR2ph/sbXA+Nzk9w2oQnKcLl0lQ9t3BSedjFJ8w1nY
-share_updated: 2024-10-01T23:07:28+04:00
+share_updated: 2024-11-03T11:15:15+04:00
 ---
 > [!summary] 
 > 1. to be (just) about to do something
@@ -197,7 +197,17 @@ extreme anxiety, sorrow, pain
 
 deprivation
 ?
+a situation in which you do not have things or conditions that are usually considered necessary for a pleasant life
 
+demolish
+?
+1. to completely destroy a building, especially in order to use the land for something else
+2. to prove that an argument or theory is wrong
+   e.g. He completely demolished all her arguments.
+3. to easily defeat someone
+   e.g. In a surprising win, the Jaguars demolished the Broncos 42-7.
+4. to quickly eat all the food you have been given.
+   Joe demolished an enormous plateful of chicken and fries.
 
 # E
 
@@ -373,6 +383,13 @@ nosy
 ?
 showing too much curiosity about other people's affairs
 
+neglect
+?
+1. to not give enough care or attention to people or things that are your responsibility
+2. (neglect to do something)
+   to not do something, often because you forget
+   e.g. I'd neglected to give him the name of the hotel where I'd be staying.
+
 # O 
 # P
 
@@ -453,6 +470,18 @@ with all due respect = with the great respect = with respect
 used to express polite disagreement in a formal situation
 e.g. With all due respect, Sir, I cannot agree with your last statement.
 <!--SR:!2024-09-25,3,252-->
+
+restore
+?
+1. to return something or someone to an earlier good condition or position:
+e.g. The badly neglected paintings have all been carefully restored.
+2. to bring back into use something that has been absent for a period of time:
+   e.g.Some people are in favour of restoring capital punishment for murderers.
+
+repair
+?
+to repair and improve something, especially a building:
+e.g. He renovates old houses and sells them at a profit.
 
 # S
 
@@ -543,6 +572,20 @@ out of stock
 (of goods) unavailable for immediate sale in a shop
 <!--SR:!2024-09-25,3,252-->
 
+shrink(from...to...)
+?
+to become smaller, or to make something smaller:
+
+squash
+?
+1. to crush something into a flat shape:
+   e.g. He accidentally sat on her hat and squashed it.
+2. to push yourself, a person, or thing into a small space:
+   e.g. The room was so full you couldn't squash another person in.
+3. to stop something from continuing to exist or happen, by forceful action:
+   e.g. Rumors of a possible takeover of the company were soon squashed by the management.
+
+
 # T
 
 tension
@@ -555,6 +598,13 @@ tackle
 ?
 make determined efforts to deal with (a problem or difficult task)
 
+take over 
+?
+1. to start doing a job or being responsible for something that another person did or had responsibility for before:
+2. (take over from)
+   e.g. He took over from the previous headmaster in February.
+3. (take over as)
+   e.g. She took over as manager two weeks ago.
 # U
 
 undermine
