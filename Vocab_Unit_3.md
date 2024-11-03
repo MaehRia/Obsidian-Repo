@@ -6,6 +6,10 @@
 ?
 an extremely strong wind
 
+bitter(of a weather)
+?
+extremely cold, especially in a way that causes physical pain
+
 
 # C
 # D
@@ -13,7 +17,7 @@ an extremely strong wind
 # F
 # G
 
-glorious
+glorious(of a weather)
 ?
 very pleasant, and especially hot and sunny
 
@@ -28,6 +32,11 @@ When there is a lot of moisture(влага) in the air
 # K
 # L
 # M
+
+miserable(of a weather)
+?
+the kind of weather that makes you feel depressed, because it is raining or dull.
+
 # N 
 # O
 # P
@@ -38,6 +47,10 @@ When there is a lot of moisture(влага) in the air
 sticky(when referring to weather)
 ?
 hot, humid and warm
+
+spitting weather
+?
+light rain
 
 # T
 # U
