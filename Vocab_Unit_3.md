@@ -12,6 +12,11 @@ extremely cold, especially in a way that causes physical pain
 
 
 # C
+
+chilly weather
+?
+noticeably cold
+
 # D
 # E
 # F
@@ -40,6 +45,11 @@ the kind of weather that makes you feel depressed, because it is raining or dull
 # N 
 # O
 # P
+
+porn down
+?
+to rain heavily
+
 # Q
 # R
 # S
@@ -51,6 +61,10 @@ hot, humid and warm
 spitting weather
 ?
 light rain
+
+to get soaked
+?
+condition, in which you get extremely wet by water or other liquid
 
 # T
 # U
