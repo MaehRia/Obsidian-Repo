@@ -17,6 +17,10 @@ chilly weather
 ?
 noticeably cold
 
+crisp weather
+?
+cold, dry and bright weather
+
 # D
 # E
 # F
@@ -65,6 +69,10 @@ light rain
 to get soaked
 ?
 condition, in which you get extremely wet by water or other liquid
+
+still air
+?
+when there is no wind
 
 # T
 # U
