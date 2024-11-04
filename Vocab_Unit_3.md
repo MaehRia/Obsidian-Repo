@@ -62,6 +62,11 @@ miserable(of a weather)
 the kind of weather that makes you feel depressed, because it is raining or dull.
 
 # N 
+
+nuisance
+?
+an act which is harmful or offensive to the public or a member of it and for which there is a legal remedy.
+
 # O
 # P
 
