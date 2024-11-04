@@ -25,6 +25,17 @@ crisp weather
 ?
 cold, dry and bright weather
 
+custody
+?
+1. the protective care or guardianship of someone or something.
+   e.g. The property was placed in the custody of a trustee.
+2. imprisonment.
+   e.g. My father was being taken into custody.
+
+crack down
+?
+​to try harder to prevent an illegal activity and deal more severely with those who are caught doing it
+
 # D
 # E
 # F
@@ -57,6 +68,10 @@ the kind of weather that makes you feel depressed, because it is raining or dull
 porn down
 ?
 to rain heavily
+
+petty crime
+?
+a classification of crime that falls mostly in the category of violations and infractions
 
 # Q
 # R
