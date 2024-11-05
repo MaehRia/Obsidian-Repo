@@ -114,7 +114,13 @@ spectacular
 ?
 impressive
 
+surge
+?
+growth, escalation
 
+savvy
+?
+having or showing practical knowledge and experience:
 
 
 #English_Vocab
