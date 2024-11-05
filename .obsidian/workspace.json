@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocab_Unit_3.md",
+                "file": "Finance/Ֆինանսական գրագիտության զարգացում/1․ Ներածություն + Ֆին․ համակարգը ՀՀ-ում.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vocab_Unit_3"
+              "title": "1․ Ներածություն + Ֆին․ համակարգը ՀՀ-ում"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Vocabulary"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,9 +260,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "1189a446ee2104c5",
+  "active": "ac00b6063f39799a",
   "lastOpenFiles": [
+    "Finance/Ֆինանսական գրագիտության զարգացում/Ֆինանսական գրագիտության զարգացում.md",
+    "Finance/Finance.md",
     "Vocab_Unit_3.md",
+    "Languages/English/Vocabulary.md",
     "000 MIX/Tips.md",
     "C++ notes.md",
     "Languages/English/Vocab_Unit_1_2.md",
@@ -286,9 +288,6 @@
     "MATHEMATICS/Հավ․ տես/3․Հավանականության դասական սահմանում, գումարման թեորեմներ, երկրաչափական.md",
     "MATHEMATICS/Հավ․ տես/1․Հավանականությունների տեսության հիմնական հասկացությունները.md",
     "MATHEMATICS/Հավ․ տես/Հավ․ տես.md",
-    "MATHEMATICS/Անալիտիկ երկրաչափություն/3․Երկու վեկտորներով կազմած անկյուն, վեկտորի պրոյեկցիա առանցքի վրա.md",
-    "MATHEMATICS/Անալիտիկ երկրաչափություն/4. Վեկտորների գծային կախվածություն և անկախություն.md",
-    "Languages/German/German.md",
     "spredsheet1.xlsx",
     "Spredsheet.xlsx",
     "note.txt",
