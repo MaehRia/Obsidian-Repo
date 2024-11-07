@@ -47,6 +47,12 @@ e.g. The conceit of that man is incredible.
 
 # G
 
+grumble about
+?
+to complain about someone or something in an annoyed way
+e.g. She spent the evening grumbling to me about her job.
+<!--SR:!2024-09-15,1,230-->
+
 # H
 
 humble
@@ -71,23 +77,9 @@ e.g. Overnight, his name became a household word and the movies he made afterwar
 
 # I
 
-
-
-play (about / around) with:
-?
-	1. to keep touching or moving something, often when you are bored or nervous
-	2. to think about or try different ways of doing something.
-	e.g. We've been playing around with ideas for a new TV show.
-
-grumble about
-?
-to complain about someone or something in an annoyed way
-e.g. She spent the evening grumbling to me about her job.
-<!--SR:!2024-09-15,1,230-->
-
-second guess yourself
-?
-a form of insecurity, anxiety and lack of self-confidence about whether you have made the right decision or not
+# J
+# K
+# L
 
 legacy
 ?
@@ -99,20 +91,30 @@ ligament
 any of the strong fibres (= strips of tissue) in the body that connect bones together, limiting movements in joints (= places where two bones are connected) and supporting muscles and other tissue
 
 
+# M
+
 make ends meet
 ?
 сводить концы с концами
 
+# N 
+# O
+# P
 
-
-renowned
+play (about / around) with:
 ?
-well-known, famed, distinguished
-<!--SR:!2024-10-05,14,290-->
+	1. to keep touching or moving something, often when you are bored or nervous
+	2. to think about or try different ways of doing something.
+	e.g. We've been playing around with ideas for a new TV show.
 
-spectacular
+
+# Q
+# R
+# S
+
+second guess yourself
 ?
-impressive
+a form of insecurity, anxiety and lack of self-confidence about whether you have made the right decision or not
 
 surge
 ?
@@ -120,7 +122,16 @@ growth, escalation
 
 savvy
 ?
-having or showing practical knowledge and experience:
+having or showing practical knowledge and experience
+
+# T
+# U
+# V
+# W
+# X
+# Y
+# Z
+
 
 
 #English_Vocab

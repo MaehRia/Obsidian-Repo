@@ -94,6 +94,16 @@ Ex. 1
 
 Ex.2
 
-1. F
-2. 
-3. 
+1. F, E
+2. A, C
+3. C, D
+4. B, G
+5. C, D, B
+6. C, D
+
+Ex. 3a
+
+1. Wie heißt du?
+A. Ich heiße Alexander.
+
+2. Kommt ihr mit ins Kino?
