@@ -116,7 +116,8 @@ E. Ja, sie ==kommen== um 19 Uhr an, dann ==bringen== ich sie zum Hotel.-> kommt,
 C. Ich ==verstehen== dich nicht. -> verstehe
 
 5. Tanzt du gerne?
-A. Ja aber mein freund tanzt leider nicht.
+A. Ja aber mein Freund tanzt leider nicht.
 
 Ex. 4
 
+kommt, kommen, lernen, 

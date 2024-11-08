@@ -485,7 +485,9 @@ viel
 ?
 a lot
 
-verstehen
+verstehe
+?
+hear, listen, understand
 
 # W
 
@@ -512,6 +514,10 @@ Zählen
 ?
 to count something
 <!--SR:!2024-10-27,1,233-->
+
+zusammen
+?
+together
 
 # Ä
 # Ö
