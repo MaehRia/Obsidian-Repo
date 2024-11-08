@@ -8,35 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dbbdac834acab071",
+            "id": "4be95203d1b700d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/German/German A1 Vocab.md",
+                "file": "Finance/Ֆինանսական գրագիտության զարգացում/4․ Թվային ֆինանսներ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "German A1 Vocab"
+              "title": "4․ Թվային ֆինանսներ"
             }
           },
           {
-            "id": "9f64bf11fa449ff7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/English/Vocabulary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vocabulary"
-            }
-          },
-          {
-            "id": "5f363162572883ff",
+            "id": "1d0df4d75a2d3b37",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "Grammatik Aktiv"
+            }
+          },
+          {
+            "id": "42de68bca1478053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/German/German A1 Vocab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "German A1 Vocab"
             }
           }
         ],
@@ -275,10 +275,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "5f363162572883ff",
+  "active": "42de68bca1478053",
   "lastOpenFiles": [
-    "Languages/English/Vocabulary.md",
+    "Languages/German/Grammatik Aktiv.md",
     "Languages/German/German A1 Vocab.md",
+    "Finance/Ֆինանսական գրագիտության զարգացում/4․ Թվային ֆինանսներ.md",
+    "Languages/English/Vocabulary.md",
     "000 MIX/Tips.md",
     "Finance/Ֆինանսական գրագիտության զարգացում/1․ Ներածություն + Ֆին․ համակարգը ՀՀ-ում.md",
     "Finance/Ֆինանսական գրագիտության զարգացում/Ֆինանսական գրագիտության զարգացում.md",
@@ -299,10 +301,8 @@
     "Programming/HTML/HTML.md",
     "MATHEMATICS/MATHEMATICS.md",
     "Languages/Languages.md",
-    "Languages/German/Grammatik Aktiv.md",
     "MATHEMATICS/Հավ․ տես/2.Կոմբինատորիկայի տարրերը.md",
     "MATHEMATICS/Հավ․ տես/3․Հավանականության դասական սահմանում, գումարման թեորեմներ, երկրաչափական.md",
-    "MATHEMATICS/Հավ․ տես/1․Հավանականությունների տեսության հիմնական հասկացությունները.md",
     "spredsheet1.xlsx",
     "Spredsheet.xlsx",
     "note.txt",

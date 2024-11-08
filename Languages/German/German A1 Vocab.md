@@ -81,6 +81,10 @@ bedeuten
 ?
 to signify something
 
+besuch
+?
+visit
+
 # C
 
 China(Chinesisch)
@@ -112,6 +116,10 @@ einkaufen
 to buy something
 <!--SR:!2024-10-27,1,233-->
 
+Elter
+?
+parent
+
 # F 
 
 die Frage
@@ -128,6 +136,10 @@ Frankreich(Französisch)
 ?
 France(French)
 <!--SR:!2024-11-01,11,270-->
+
+Flughafen
+?
+airport
 
 # G
 
@@ -257,6 +269,10 @@ der Löffel
 ?
 spoon
 <!--SR:!2024-10-28,2,236-->
+
+leider
+?
+unfortunately
 
 # M
 
@@ -460,6 +476,16 @@ der Vorname
 ?
 first name
 <!--SR:!2024-10-27,1,233-->
+
+vielleicht
+?
+maybe, perhaps
+
+viel
+?
+a lot
+
+verstehen
 
 # W
 

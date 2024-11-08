@@ -104,6 +104,19 @@ Ex.2
 Ex. 3a
 
 1. Wie heißt du?
-A. Ich heiße Alexander.
+B. Ich heiße Alexander.
 
 2. Kommt ihr mit ins Kino?
+D. Nein, leider nicht. Ich arbeite heute bis acht und Jana besucht ihre Eltern. Vielleicht morgen?
+
+3. Frau Tan kommt heute. Gehen Sie zum Flughafen?
+E. Ja, sie ==kommen== um 19 Uhr an, dann ==bringen== ich sie zum Hotel.-> kommt, bringe
+
+4. Warum antwortest du nicht?
+C. Ich ==verstehen== dich nicht. -> verstehe
+
+5. Tanzt du gerne?
+A. Ja aber mein freund tanzt leider nicht.
+
+Ex. 4
+
