@@ -40,6 +40,10 @@ alleine
 ?
 in solitude
 
+die Antwort
+?
+answer
+
 # B
 
 Begrüßen
