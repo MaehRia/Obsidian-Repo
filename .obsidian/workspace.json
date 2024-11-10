@@ -165,9 +165,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Finance/Ֆինանսական գրագիտության զարգացում/4․ Թվային ֆինանսներ.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 4․ Թվային ֆինանսներ"
             }
           },
           {
@@ -251,7 +253,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
