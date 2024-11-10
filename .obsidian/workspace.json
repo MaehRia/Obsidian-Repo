@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHEMATICS/Մաթ․ տրամաբանություն/2.Պրեդիկատներ.md",
+                "file": "Finance/Ֆինանսական գրագիտության զարգացում/4․ Թվային ֆինանսներ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.Պրեդիկատներ"
+              "title": "4․ Թվային ֆինանսներ"
             }
           },
           {
@@ -165,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATHEMATICS/Մաթ․ տրամաբանություն/2.Պրեդիկատներ.md"
+                "file": "Finance/Ֆինանսական գրագիտության զարգացում/4․ Թվային ֆինանսներ.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.Պրեդիկատներ"
+              "title": "Outline of 4․ Թվային ֆինանսներ"
             }
           },
           {
@@ -277,15 +277,17 @@
   },
   "active": "4be95203d1b700d8",
   "lastOpenFiles": [
-    "MATHEMATICS/Մաթ․ տրամաբանություն/1.Ասույթների հաշիվ.md",
-    "MATHEMATICS/Մաթ․ տրամաբանություն/3.Քվանտորներ.md",
-    "MATHEMATICS/Մաթ․ տրամաբանություն/Մաթ․ տրամաբանություն.md",
-    "MATHEMATICS/Մաթ․ անալիզ/Մաթ․ անալիզ.md",
-    "MATHEMATICS/Հավ․ տես/3․Հավանականության դասական սահմանում, գումարման թեորեմներ, երկրաչափական.md",
-    "MATHEMATICS/Հավ․ տես/1․Հավանականությունների տեսության հիմնական հասկացությունները.md",
-    "MATHEMATICS/Անալիտիկ երկրաչափություն/3․Երկու վեկտորներով կազմած անկյուն, վեկտորի պրոյեկցիա առանցքի վրա.md",
-    "MATHEMATICS/Անալիտիկ երկրաչափություն/4. Վեկտորների գծային կախվածություն և անկախություն.md",
+    "Pasted image 20241110100201.png",
     "MATHEMATICS/MATHEMATICS.md",
+    "MATHEMATICS/Անալիտիկ երկրաչափություն/4. Վեկտորների գծային կախվածություն և անկախություն.md",
+    "MATHEMATICS/Անալիտիկ երկրաչափություն/3․Երկու վեկտորներով կազմած անկյուն, վեկտորի պրոյեկցիա առանցքի վրա.md",
+    "MATHEMATICS/Հավ․ տես/1․Հավանականությունների տեսության հիմնական հասկացությունները.md",
+    "MATHEMATICS/Հավ․ տես/3․Հավանականության դասական սահմանում, գումարման թեորեմներ, երկրաչափական.md",
+    "MATHEMATICS/Մաթ․ անալիզ/Մաթ․ անալիզ.md",
+    "MATHEMATICS/Մաթ․ տրամաբանություն/Մաթ․ տրամաբանություն.md",
+    "MATHEMATICS/Մաթ․ տրամաբանություն/3.Քվանտորներ.md",
+    "MATHEMATICS/Մաթ․ տրամաբանություն/1.Ասույթների հաշիվ.md",
+    "MATHEMATICS/Մաթ․ տրամաբանություն/2.Պրեդիկատներ.md",
     "Finance/Ֆինանսական գրագիտության զարգացում/4․ Թվային ֆինանսներ.md",
     "Pasted image 20241110094315.png",
     "Pasted image 20241110093050.png",
@@ -307,8 +309,6 @@
     "Programming/C++, OOP/C++ Uni material.md",
     "Programming/Machine Learning.md",
     "Programming/C++, OOP/String and Stringstream class.md",
-    "Programming/Pascal Naming Convention.md",
-    "Programming/TumoLabs.md",
     "spredsheet1.xlsx",
     "Spredsheet.xlsx",
     "note.txt",
