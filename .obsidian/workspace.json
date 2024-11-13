@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "53c4e54fc8067340",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
             "id": "1d0df4d75a2d3b37",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               "title": "German A1 Vocab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,8 +261,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -261,9 +274,19 @@
               "icon": "viewIcon",
               "title": "Markdown-Autocomplete"
             }
+          },
+          {
+            "id": "3b840dd91b84f06a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -286,7 +309,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "4be95203d1b700d8",
+  "active": "3b840dd91b84f06a",
   "lastOpenFiles": [
     "Languages/German/Grammatik Aktiv.md",
     "Languages/German/German A1 Vocab.md",
