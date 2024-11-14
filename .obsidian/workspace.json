@@ -4,65 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "37348ec54babc2b4",
+        "id": "d833f50b23e363d3",
         "type": "tabs",
         "children": [
           {
-            "id": "4be95203d1b700d8",
+            "id": "e6e17012a64b3230",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/Ֆինանսական գրագիտության զարգացում/4․ Թվային ֆինանսներ.md",
+                "file": "Finance/Ֆինանսական գրագիտության զարգացում/2․ Ֆինանսական անվտանգություն․ Ֆինանսական ծուղակներից պաշտպանման ուղին.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4․ Թվային ֆինանսներ"
-            }
-          },
-          {
-            "id": "53c4e54fc8067340",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
-          },
-          {
-            "id": "1d0df4d75a2d3b37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/German/Grammatik Aktiv.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grammatik Aktiv"
-            }
-          },
-          {
-            "id": "42de68bca1478053",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/German/German A1 Vocab.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "German A1 Vocab"
+              "title": "2․ Ֆինանսական անվտանգություն․ Ֆինանսական ծուղակներից պաշտպանման ուղին"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4b42814828976366",
@@ -135,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Finance/Ֆինանսական գրագիտության զարգացում/2․ Ֆինանսական անվտանգություն․ Ֆինանսական ծուղակներից պաշտպանման ուղին.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2․ Ֆինանսական անվտանգություն․ Ֆինանսական ծուղակներից պաշտպանման ուղին"
             }
           },
           {
@@ -153,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Finance/Ֆինանսական գրագիտության զարգացում/2․ Ֆինանսական անվտանգություն․ Ֆինանսական ծուղակներից պաշտպանման ուղին.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2․ Ֆինանսական անվտանգություն․ Ֆինանսական ծուղակներից պաշտպանման ուղին"
             }
           },
           {
@@ -285,13 +245,11 @@
               "title": "Notes Review Queue"
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -309,10 +267,19 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3b840dd91b84f06a",
+  "active": "e6e17012a64b3230",
   "lastOpenFiles": [
-    "Languages/German/Grammatik Aktiv.md",
+    "Docs/Pasted image 20240804005044.png",
+    "Finance/Ֆինանսական գրագիտության զարգացում/2․ Ֆինանսական անվտանգություն․ Ֆինանսական ծուղակներից պաշտպանման ուղին.md",
+    "Docs/Pasted image 20240804002350.png",
+    "Docs/image_5.png",
+    "Docs/image_4.png",
+    "Docs/image_3.png",
+    "Docs/image_2.png",
+    "Docs/image_1.jpg",
+    "Finance/Ֆինանսական գրագիտության զարգացում/1․ Ներածություն + Ֆին․ համակարգը ՀՀ-ում.md",
     "Languages/German/German A1 Vocab.md",
+    "Languages/German/Grammatik Aktiv.md",
     "Finance/Ֆինանսական գրագիտության զարգացում/4․ Թվային ֆինանսներ.md",
     "Pasted image 20241110100201.png",
     "MATHEMATICS/MATHEMATICS.md",
@@ -328,12 +295,8 @@
     "Pasted image 20241110094315.png",
     "Pasted image 20241110093050.png",
     "Pasted image 20241109224556.png",
-    "Pasted image 20241109224234.png",
-    "Pasted image 20241109223941.png",
-    "Pasted image 20241109223828.png",
     "Languages/English/Vocabulary.md",
     "000 MIX/Tips.md",
-    "Finance/Ֆինանսական գրագիտության զարգացում/1․ Ներածություն + Ֆին․ համակարգը ՀՀ-ում.md",
     "Finance/Ֆինանսական գրագիտության զարգացում/Ֆինանսական գրագիտության զարգացում.md",
     "Finance/Finance.md",
     "Vocab_Unit_3.md",
@@ -342,7 +305,6 @@
     "Programming/C++, OOP/C++, OOP.md",
     "Programming/C++, OOP/C++ Uni material.md",
     "Programming/Machine Learning.md",
-    "Programming/C++, OOP/String and Stringstream class.md",
     "spredsheet1.xlsx",
     "Spredsheet.xlsx",
     "note.txt",
@@ -352,9 +314,6 @@
     "Programming/Python",
     "Programming/HTML",
     "Programming/C++, OOP",
-    "Programming",
-    "Docs/Pasted image 20240915205714.png",
-    "Docs/photo_5418051491459097185_y.jpg",
-    "Docs/Screenshot 2024-07-12 002306.png"
+    "Programming"
   ]
 }
