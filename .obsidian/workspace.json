@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/Ֆինանսական գրագիտության զարգացում/2․ Ֆինանսական անվտանգություն․ Ֆինանսական ծուղակներից պաշտպանման ուղին.md",
+                "file": "Languages/English/English.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2․ Ֆինանսական անվտանգություն․ Ֆինանսական ծուղակներից պաշտպանման ուղին"
+              "title": "English"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4b42814828976366",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finance/Ֆինանսական գրագիտության զարգացում/2․ Ֆինանսական անվտանգություն․ Ֆինանսական ծուղակներից պաշտպանման ուղին.md",
+                "file": "Languages/English/English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2․ Ֆինանսական անվտանգություն․ Ֆինանսական ծուղակներից պաշտպանման ուղին"
+              "title": "Backlinks for English"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finance/Ֆինանսական գրագիտության զարգացում/2․ Ֆինանսական անվտանգություն․ Ֆինանսական ծուղակներից պաշտպանման ուղին.md",
+                "file": "Languages/English/English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2․ Ֆինանսական անվտանգություն․ Ֆինանսական ծուղակներից պաշտպանման ուղին"
+              "title": "Outgoing links from English"
             }
           },
           {
@@ -249,7 +250,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,8 +271,10 @@
   },
   "active": "e6e17012a64b3230",
   "lastOpenFiles": [
-    "Docs/Pasted image 20240804005044.png",
+    "Languages/Languages.md",
+    "Kanban.md",
     "Finance/Ֆինանսական գրագիտության զարգացում/2․ Ֆինանսական անվտանգություն․ Ֆինանսական ծուղակներից պաշտպանման ուղին.md",
+    "Docs/Pasted image 20240804005044.png",
     "Docs/Pasted image 20240804002350.png",
     "Docs/image_5.png",
     "Docs/image_4.png",
@@ -294,17 +298,15 @@
     "MATHEMATICS/Մաթ․ տրամաբանություն/2.Պրեդիկատներ.md",
     "Pasted image 20241110094315.png",
     "Pasted image 20241110093050.png",
-    "Pasted image 20241109224556.png",
     "Languages/English/Vocabulary.md",
     "000 MIX/Tips.md",
     "Finance/Ֆինանսական գրագիտության զարգացում/Ֆինանսական գրագիտության զարգացում.md",
     "Finance/Finance.md",
-    "Vocab_Unit_3.md",
-    "C++ notes.md",
+    "Languages/English/Vocab_Unit_3.md",
+    "Programming/C++, OOP/C++ notes.md",
     "Languages/English/Vocab_Unit_1_2.md",
     "Programming/C++, OOP/C++, OOP.md",
     "Programming/C++, OOP/C++ Uni material.md",
-    "Programming/Machine Learning.md",
     "spredsheet1.xlsx",
     "Spredsheet.xlsx",
     "note.txt",
