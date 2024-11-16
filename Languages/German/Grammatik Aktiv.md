@@ -120,4 +120,6 @@ A. Ja aber mein Freund tanzt leider nicht.
 
 Ex. 4
 
-kommt, kommen, lernen, 
+kommt, kommen, lernen, schreibt, hört, lernt, machen, gehen, tanzt, reden, trinken, tanzen
+
+Ex. 5

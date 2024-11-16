@@ -108,6 +108,10 @@ Dänemark(Dänisch)
 Denmark(Danish)
 <!--SR:!2024-11-10,15,296-->
 
+dann
+?
+then
+
 # E
 
 ergänzen
@@ -123,6 +127,10 @@ to buy something
 Elter
 ?
 parent
+
+die Einladung
+?
+invitation
 
 # F 
 
@@ -198,6 +206,10 @@ helfen
 ?
 to help
 <!--SR:!2024-11-10,15,296-->
+
+die Hausaufgaben
+?
+homework
 
 # I
 
