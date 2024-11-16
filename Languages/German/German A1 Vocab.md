@@ -442,6 +442,10 @@ schreiben
 ?
 to write
 
+schon
+?
+already
+
 # T
 
 (das or der)teil
