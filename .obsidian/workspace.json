@@ -242,11 +242,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "63b05e354ed475da",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -269,7 +280,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "e6e17012a64b3230",
+  "active": "63b05e354ed475da",
   "lastOpenFiles": [
     "Languages/Languages.md",
     "Kanban.md",
