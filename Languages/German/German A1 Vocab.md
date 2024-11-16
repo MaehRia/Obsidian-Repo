@@ -268,6 +268,10 @@ das Kap<u>i</u>tel
 chapter
 <!--SR:!2024-10-31,5,250-->
 
+kennen
+?
+to know, be familiar with
+
 # L
 
 das land
@@ -316,6 +320,10 @@ Monat
 ?
 month
 plural: Monate
+
+meistens
+?
+mostly
 
 # N
 
@@ -446,6 +454,10 @@ schon
 ?
 already
 
+seit
+?
+since
+
 # T
 
 (das or der)teil
@@ -525,6 +537,10 @@ wiederholen
 ?
 to repeat something
 <!--SR:!2024-10-28,2,210-->
+
+wissen
+?
+to know a fact, know when/how
 
 # X
 # Y 

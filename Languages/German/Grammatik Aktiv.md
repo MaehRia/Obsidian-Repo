@@ -123,4 +123,7 @@ Ex. 4
 kommt, kommen, lernen, schreibt, hört, lernt, machen, gehen, tanzt, reden, trinken, tanzen
 
 Ex. 5
-komme, kennst, kommen, arbeitet, studiert, lernt, kenne
+komme, kennst, kommen, arbeitet, studiert, lernt, kenne, mache, tanzen, gehen, tanzen, kenne, freue
+
+Ex.6 
+komme, schalte, öffne, beantworte
