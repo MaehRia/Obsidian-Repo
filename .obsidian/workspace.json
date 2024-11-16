@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Programming.md",
+                "file": "Finance/Ֆինանսական գրագիտության զարգացում/4․ Թվային ֆինանսներ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programming"
+              "title": "4․ Թվային ֆինանսներ"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4b42814828976366",
@@ -261,12 +262,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3c539b74c5835694",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -289,12 +300,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "4181407fb7ecae53",
+  "active": "e6e17012a64b3230",
   "lastOpenFiles": [
+    "Finance/Ֆինանսական գրագիտության զարգացում/3․ Փողի կառավարում․ կրեդիտային քարտեր VS ֆիզիկական արժույթ.md",
+    "Finance/Ֆինանսական գրագիտության զարգացում/2․ Ֆինանսական անվտանգություն․ Ֆինանսական ծուղակներից պաշտպանման ուղին.md",
+    "Finance/Ֆինանսական գրագիտության զարգացում/1․ Ներածություն + Ֆին․ համակարգը ՀՀ-ում.md",
+    "Finance/Ֆինանսական գրագիտության զարգացում/Ֆինանսական գրագիտության զարգացում.md",
+    "Finance/Finance.md",
+    "Programming/Programming.md",
     "Languages/Languages.md",
     "Languages/English/English.md",
     "Kanban.md",
-    "Finance/Ֆինանսական գրագիտության զարգացում/2․ Ֆինանսական անվտանգություն․ Ֆինանսական ծուղակներից պաշտպանման ուղին.md",
     "Docs/Pasted image 20240804005044.png",
     "Docs/Pasted image 20240804002350.png",
     "Docs/image_5.png",
@@ -302,7 +318,6 @@
     "Docs/image_3.png",
     "Docs/image_2.png",
     "Docs/image_1.jpg",
-    "Finance/Ֆինանսական գրագիտության զարգացում/1․ Ներածություն + Ֆին․ համակարգը ՀՀ-ում.md",
     "Languages/German/German A1 Vocab.md",
     "Languages/German/Grammatik Aktiv.md",
     "Finance/Ֆինանսական գրագիտության զարգացում/4․ Թվային ֆինանսներ.md",
@@ -321,12 +336,8 @@
     "Pasted image 20241110093050.png",
     "Languages/English/Vocabulary.md",
     "000 MIX/Tips.md",
-    "Finance/Ֆինանսական գրագիտության զարգացում/Ֆինանսական գրագիտության զարգացում.md",
-    "Finance/Finance.md",
     "Languages/English/Vocab_Unit_3.md",
     "Programming/C++, OOP/C++ notes.md",
-    "Languages/English/Vocab_Unit_1_2.md",
-    "Programming/C++, OOP/C++, OOP.md",
     "spredsheet1.xlsx",
     "Spredsheet.xlsx",
     "note.txt",
