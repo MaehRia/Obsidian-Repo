@@ -39,10 +39,12 @@ to work
 alleine
 ?
 in solitude
+<!--SR:!2024-11-18,1,231-->
 
 die Antwort
 ?
 answer
+<!--SR:!2024-11-18,1,231-->
 
 # B
 
@@ -59,7 +61,7 @@ to spell something out
 das bisschen
 ?
 a bit of, some
-<!--SR:!2024-10-27,1,190-->
+<!--SR:!2024-11-20,3,210-->
 
 Brasilien
 ?
@@ -69,7 +71,7 @@ Brazil
 Belgien
 ?
 Belgium
-<!--SR:!2024-11-01,11,270-->
+<!--SR:!2024-12-27,40,290-->
 
 
 bequem
@@ -80,10 +82,12 @@ comfortable
 bedeuten
 ?
 to signify something
+<!--SR:!2024-11-18,1,231-->
 
 besuch
 ?
 visit
+<!--SR:!2024-11-18,1,231-->
 
 # C
 
@@ -102,11 +106,12 @@ Chemistry(chemist)
 Dänemark(Dänisch)
 ?
 Denmark(Danish)
-<!--SR:!2024-11-10,15,296-->
+<!--SR:!2025-01-17,61,316-->
 
 dann
 ?
 then
+<!--SR:!2024-11-18,1,231-->
 
 # E
 
@@ -118,15 +123,17 @@ to fill in
 einkaufen
 ?
 to buy something
-<!--SR:!2024-10-27,1,233-->
+<!--SR:!2024-11-20,3,253-->
 
 Elter
 ?
 parent
+<!--SR:!2024-11-18,1,231-->
 
 die Einladung
 ?
 invitation
+<!--SR:!2024-11-18,1,231-->
 
 # F 
 
@@ -148,13 +155,14 @@ France(French)
 Flughafen
 ?
 airport
+<!--SR:!2024-11-18,1,231-->
 
 # G
 
 das Geschlecht
 ?
 gender
-<!--SR:!2024-10-27,1,190-->
+<!--SR:!2024-11-20,3,210-->
 
 Großbritannien
 ?
@@ -169,7 +177,7 @@ Greece(Greek)
 Grönland
 ?
 Greenland
-<!--SR:!2024-10-27,1,233-->
+<!--SR:!2024-11-20,3,253-->
 
 die Gesundheit
 ?
@@ -201,23 +209,24 @@ hometown
 helfen
 ?
 to help
-<!--SR:!2024-11-10,15,296-->
+<!--SR:!2025-01-19,63,316-->
 
 die Hausaufgaben
 ?
 homework
+<!--SR:!2024-11-21,4,271-->
 
 # I
 
 Inform<u>a</u>tiker(in)
 ?
 computer specialist
-<!--SR:!2024-11-05,15,290-->
+<!--SR:!2025-01-13,57,310-->
 
 Italien(Italienisch)
 ?
 Italy(Italian)
-<!--SR:!2024-10-30,4,273-->
+<!--SR:!2024-12-02,15,293-->
 
 Indien(Indisch)
 ?
@@ -267,6 +276,7 @@ chapter
 kennen
 ?
 to know, be familiar with
+<!--SR:!2024-11-18,1,231-->
 
 # L
 
@@ -289,6 +299,7 @@ spoon
 leider
 ?
 unfortunately
+<!--SR:!2024-11-18,1,231-->
 
 # M
 
@@ -305,7 +316,7 @@ painting(painter)
 Musik(Musiker)
 ?
 music(musician)
-<!--SR:!2024-11-06,11,276-->
+<!--SR:!2024-12-31,44,296-->
 
 das Messer
 ?
@@ -316,17 +327,19 @@ Monat
 ?
 month
 plural: Monate
+<!--SR:!2024-11-18,1,231-->
 
 meistens
 ?
 mostly
+<!--SR:!2024-11-18,1,231-->
 
 # N
 
 der Nachname
 ?
 surname
-<!--SR:!2024-10-27,1,233-->
+<!--SR:!2024-11-20,3,253-->
 
 den Niederlanden
 ?
@@ -337,11 +350,12 @@ der Nachbar
 ?
 neighbor
 plural: Nachbarn
-<!--SR:!2024-10-27,1,233-->
+<!--SR:!2024-11-20,3,253-->
 
 nehmen
 ?
 to take something
+<!--SR:!2024-11-18,1,231-->
 
 # O
 # P
@@ -349,7 +363,7 @@ to take something
 Polen(Polnisch)
 ?
 Poland(Polish)
-<!--SR:!2024-11-01,11,270-->
+<!--SR:!2024-12-26,39,290-->
 
 Portugal(Portugiesisch)
 ?
@@ -387,11 +401,12 @@ Romania(Romanian)
 Regal
 ?
 shelves
-<!--SR:!2024-10-27,1,216-->
+<!--SR:!2024-11-20,3,236-->
 
 reden
 ?
 to talk
+<!--SR:!2024-11-18,1,231-->
 
 # S
 
@@ -399,12 +414,12 @@ die Stadt
 ?
 town, city
 plural: Städte
-<!--SR:!2024-11-02,7,250-->
+<!--SR:!2024-12-12,25,270-->
 
 schlafzimmer
 ?
 bedroom
-<!--SR:!2024-10-30,4,273-->
+<!--SR:!2024-12-01,14,293-->
 
 Schweden(Schwedisch)
 ?
@@ -414,12 +429,12 @@ Sweden(Swedish)
 Spanien(Spanisch)
 ?
 Spain(Spanish)
-<!--SR:!2024-11-10,15,296-->
+<!--SR:!2025-01-18,62,316-->
 
 Slowenien(Slowenisch)
 ?
 Slovenia(Slovenian)
-<!--SR:!2024-11-05,15,290-->
+<!--SR:!2025-01-16,60,310-->
 
 der Schweiz
 ?
@@ -440,19 +455,22 @@ die Schule
 ?
 school
 Schüler(Schülerin)
-<!--SR:!2024-10-27,1,233-->
+<!--SR:!2024-11-20,3,253-->
 
 schreiben
 ?
 to write
+<!--SR:!2024-11-18,1,231-->
 
 schon
 ?
 already
+<!--SR:!2024-11-18,1,231-->
 
 seit
 ?
 since
+<!--SR:!2024-11-18,1,231-->
 
 # T
 
@@ -465,7 +483,7 @@ das Thema
 ?
 case, matter, subject
 plural: Themen
-<!--SR:!2024-10-27,1,233-->
+<!--SR:!2024-11-18,1,213-->
 
 der Türkei(Türkisch)
 ?
@@ -492,13 +510,14 @@ Ukraine(Ukrainian)
 unsere
 ?
 our(s)
+<!--SR:!2024-11-18,1,231-->
 
 # V
 
 v<u>o</u>rstellen
 ?
 to imagine something
-<!--SR:!2024-10-27,1,216-->
+<!--SR:!2024-11-18,1,196-->
 
 der Vorname
 ?
@@ -508,14 +527,17 @@ first name
 vielleicht
 ?
 maybe, perhaps
+<!--SR:!2024-11-18,1,231-->
 
 viel
 ?
 a lot
+<!--SR:!2024-11-21,4,271-->
 
 verstehe
 ?
 hear, listen, understand
+<!--SR:!2024-11-18,1,231-->
 
 # W
 
@@ -532,11 +554,12 @@ to live, stay at some place
 wiederholen
 ?
 to repeat something
-<!--SR:!2024-10-28,2,210-->
+<!--SR:!2024-11-21,4,210-->
 
 wissen
 ?
 to know a fact, know when/how
+<!--SR:!2024-11-18,1,231-->
 
 # X
 # Y 
@@ -550,6 +573,7 @@ to count something
 zusammen
 ?
 together
+<!--SR:!2024-11-21,4,271-->
 
 # Ä
 # Ö
