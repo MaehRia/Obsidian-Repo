@@ -9,32 +9,32 @@ andere
 ?
 different, other
 e.g. Das ist eine ==andere== Frage.
-<!--SR:!2024-10-27,1,233-->
+<!--SR:!2024-11-19,2,233-->
 
 das Alter
 ?
 age
-<!--SR:!2024-10-28,2,236-->
+<!--SR:!2024-11-18,1,216-->
 
 die Aufgabe
 ?
 task, job
-<!--SR:!2024-10-27,1,190-->
+<!--SR:!2024-11-19,2,190-->
 
 auch
 ?
 also, too
-<!--SR:!2024-10-29,3,253-->
+<!--SR:!2024-11-28,11,273-->
 
 Armenien(Armenisch)
 ?
 Armenia(Armenian)
-<!--SR:!2024-11-10,15,296-->
+<!--SR:!2025-01-18,62,316-->
 
 arbeiten
 ?
 to work
-<!--SR:!2024-10-29,3,256-->
+<!--SR:!2024-11-19,2,236-->
 
 alleine
 ?
@@ -49,12 +49,12 @@ answer
 Begrüßen
 ?
 willkommen heißen. To greet
-<!--SR:!2024-10-27,1,216-->
+<!--SR:!2024-11-18,1,196-->
 
-Buchstabieren
+buchstabieren
 ?
-to spell
-<!--SR:!2024-10-27,1,190-->
+to spell something out
+<!--SR:!2024-11-18,1,170-->
 
 das bisschen
 ?
@@ -64,22 +64,18 @@ a bit of, some
 Brasilien
 ?
 Brazil
-<!--SR:!2024-10-28,2,256-->
+<!--SR:!2024-11-22,5,256-->
 
 Belgien
 ?
 Belgium
 <!--SR:!2024-11-01,11,270-->
 
-buchstabiere
-?
-to spell something out
-<!--SR:!2024-10-27,1,233-->
 
 bequem
 ?
 comfortable
-<!--SR:!2024-10-29,3,256-->
+<!--SR:!2024-11-25,8,256-->
 
 bedeuten
 ?
@@ -94,12 +90,12 @@ visit
 China(Chinesisch)
 ?
 China(Chinese)
-<!--SR:!2024-11-10,15,296-->
+<!--SR:!2025-01-21,65,316-->
 
 Chemie(Chemiker)
 ?
 Chemistry(chemist)
-<!--SR:!2024-11-10,15,296-->
+<!--SR:!2025-01-19,63,316-->
 
 # D
 
@@ -117,7 +113,7 @@ then
 ergänzen
 ?
 to fill in
-<!--SR:!2024-10-27,1,216-->
+<!--SR:!2024-11-19,2,216-->
 
 einkaufen
 ?
@@ -137,17 +133,17 @@ invitation
 die Frage
 ?
 question
-<!--SR:!2024-11-01,11,270-->
+<!--SR:!2024-12-27,40,290-->
 
 die Familie
 ?
 family
-<!--SR:!2024-11-05,15,290-->
+<!--SR:!2025-01-16,60,310-->
 
 Frankreich(Französisch)
 ?
 France(French)
-<!--SR:!2024-11-01,11,270-->
+<!--SR:!2024-12-26,39,290-->
 
 Flughafen
 ?
@@ -163,12 +159,12 @@ gender
 Großbritannien
 ?
 Great Britain
-<!--SR:!2024-11-05,15,290-->
+<!--SR:!2024-12-30,43,290-->
 
 Griechenland(Griechisch)
 ?
 Greece(Greek)
-<!--SR:!2024-10-28,2,236-->
+<!--SR:!2024-11-24,7,256-->
 
 Grönland
 ?
@@ -178,29 +174,29 @@ Greenland
 die Gesundheit
 ?
 used to wish good health to a person who has just sneezed
-<!--SR:!2024-10-27,1,233-->
+<!--SR:!2024-11-20,3,253-->
 
 die Gabel
 ?
 fork
-<!--SR:!2024-10-27,1,216-->
+<!--SR:!2024-11-18,1,196-->
 
 günstig
 ?
 convenient
-<!--SR:!2024-10-27,1,216-->
+<!--SR:!2024-11-18,1,196-->
 
 # H
 
 hören
 ?
 hear smb/smth
-<!--SR:!2024-10-29,3,253-->
+<!--SR:!2024-11-19,2,233-->
 
 die Heimatstadt
 ?
 hometown
-<!--SR:!2024-10-27,1,216-->
+<!--SR:!2024-11-18,1,196-->
 
 helfen
 ?
@@ -226,17 +222,17 @@ Italy(Italian)
 Indien(Indisch)
 ?
 India(Indian)
-<!--SR:!2024-11-05,15,290-->
+<!--SR:!2025-01-15,59,310-->
 
 Irland(Irisch)
 ?
 Ireland(Irish)
-<!--SR:!2024-11-10,15,296-->
+<!--SR:!2024-12-31,44,296-->
 
 Ingenieurwesen(Ingenieur)
 ?
 engineering(engineer)
-<!--SR:!2024-10-28,2,236-->
+<!--SR:!2024-11-18,1,216-->
 
 # J
 
@@ -244,29 +240,29 @@ das Jahr
 ?
 year
 plural: Jahre
-<!--SR:!2024-10-27,1,233-->
+<!--SR:!2024-11-19,2,233-->
 
 J<u>a</u>pan(Jap<u>a</u>nisch)
 ?
 Japan(Japanese)
-<!--SR:!2024-11-01,11,270-->
+<!--SR:!2024-12-29,42,290-->
 
 Jura(Jurist)
 ?
 Law(Lawyer)
-<!--SR:!2024-10-29,3,256-->
+<!--SR:!2024-11-19,2,236-->
 
 Journalistik(journalist)
 ?
 journalism(journalist)
-<!--SR:!2024-11-06,11,276-->
+<!--SR:!2024-12-30,43,296-->
 
 # K
 
 das Kap<u>i</u>tel
 ?
 chapter
-<!--SR:!2024-10-31,5,250-->
+<!--SR:!2024-12-05,18,270-->
 
 kennen
 ?
@@ -278,17 +274,17 @@ das land
 ?
 country
 plural: Länder
-<!--SR:!2024-10-31,5,230-->
+<!--SR:!2024-11-20,3,210-->
 
 lesen
 ?
 to read
-<!--SR:!2024-10-31,5,250-->
+<!--SR:!2024-11-20,3,230-->
 
 der Löffel
 ?
 spoon
-<!--SR:!2024-10-28,2,236-->
+<!--SR:!2024-11-22,5,236-->
 
 leider
 ?
@@ -299,12 +295,12 @@ unfortunately
 die Mediz<u>i</u>n
 ?
 medicine
-<!--SR:!2024-11-01,11,270-->
+<!--SR:!2024-12-28,41,290-->
 
 Malerei(Maler)
 ?
 painting(painter)
-<!--SR:!2024-10-29,3,253-->
+<!--SR:!2024-11-26,9,253-->
 
 Musik(Musiker)
 ?
@@ -314,7 +310,7 @@ music(musician)
 das Messer
 ?
 knife
-<!--SR:!2024-10-27,1,216-->
+<!--SR:!2024-11-18,1,196-->
 
 Monat
 ?
@@ -335,7 +331,7 @@ surname
 den Niederlanden
 ?
 the Netherlands
-<!--SR:!2024-10-27,1,233-->
+<!--SR:!2024-11-18,1,213-->
 
 der Nachbar
 ?
@@ -358,22 +354,22 @@ Poland(Polish)
 Portugal(Portugiesisch)
 ?
 Portugal(Portuguese)
-<!--SR:!2024-11-02,7,270-->
+<!--SR:!2024-11-21,4,250-->
 
 Physik(Physiker)
 ?
 Physics(Physicist)
-<!--SR:!2024-11-03,8,256-->
+<!--SR:!2024-12-16,29,276-->
 
 Philosophie(Philosoph)
 ?
 Philosophy(philosopher)
-<!--SR:!2024-10-29,3,256--> 
+<!--SR:!2024-11-19,2,236--> 
 
 Pronomen
 ?
 pronoun
-<!--SR:!2024-10-27,1,233-->
+<!--SR:!2024-11-19,2,233-->
 
 # Q
 # R
@@ -381,12 +377,12 @@ pronoun
 Russland(Russisch)
 ?
 Russia(Russian)
-<!--SR:!2024-11-05,15,290-->
+<!--SR:!2025-01-14,58,310-->
 
 Rumänien(Rumänisch)
 ?
 Romania(Romanian)
-<!--SR:!2024-11-01,11,270-->
+<!--SR:!2024-12-28,41,290-->
 
 Regal
 ?
@@ -413,7 +409,7 @@ bedroom
 Schweden(Schwedisch)
 ?
 Sweden(Swedish)
-<!--SR:!2024-11-10,15,296-->
+<!--SR:!2025-01-17,61,316-->
 
 Spanien(Spanisch)
 ?
@@ -428,17 +424,17 @@ Slovenia(Slovenian)
 der Schweiz
 ?
 Switzerland
-<!--SR:!2024-10-27,1,216-->
+<!--SR:!2024-11-18,1,196-->
 
 Südafrika
 ?
 South Africa
-<!--SR:!2024-11-06,11,276-->
+<!--SR:!2024-12-29,42,296-->
 
 Sache(n)
 ?
 things, object
-<!--SR:!2024-10-27,1,233-->
+<!--SR:!2024-11-18,1,213-->
 
 die Schule
 ?
@@ -463,7 +459,7 @@ since
 (das or der)teil
 ?
 part
-<!--SR:!2024-10-27,1,230-->
+<!--SR:!2024-11-19,2,230-->
 
 das Thema
 ?
@@ -474,24 +470,24 @@ plural: Themen
 der Türkei(Türkisch)
 ?
 Turkey(Turkish)
-<!--SR:!2024-10-27,1,216-->
+<!--SR:!2024-11-20,3,236-->
 
 die Tasse
 ?
 cup
-<!--SR:!2024-10-27,1,216-->
+<!--SR:!2024-11-18,1,196-->
 
 # U
 
 Ung<u>a</u>rn(<u>U</u>ngarisch)
 ?
 Hungary(Hungarian)
-<!--SR:!2024-11-01,11,270-->
+<!--SR:!2024-11-23,6,250-->
 
 der Ukraine(Ukrainer)
 ?
 Ukraine(Ukrainian)
-<!--SR:!2024-11-10,15,296-->
+<!--SR:!2025-01-20,64,316-->
 
 unsere
 ?
@@ -507,7 +503,7 @@ to imagine something
 der Vorname
 ?
 first name
-<!--SR:!2024-10-27,1,233-->
+<!--SR:!2024-11-19,2,233-->
 
 vielleicht
 ?
@@ -526,12 +522,12 @@ hear, listen, understand
 der Wortschatz
 ?
 vocabulary
-<!--SR:!2024-10-27,1,233-->
+<!--SR:!2024-11-20,3,253-->
 
 wohnen
 ?
 to live, stay at some place
-<!--SR:!2024-10-28,2,236-->
+<!--SR:!2024-11-22,5,236-->
 
 wiederholen
 ?
@@ -549,7 +545,7 @@ to know a fact, know when/how
 Zählen
 ?
 to count something
-<!--SR:!2024-10-27,1,233-->
+<!--SR:!2024-11-18,1,213-->
 
 zusammen
 ?
