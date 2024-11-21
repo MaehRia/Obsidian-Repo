@@ -2,7 +2,7 @@
 
 Here are given an example of a simple HTML document and a link to a documentation that provides information about [creating web page with Notepad or TextEdit](https://www.w3schools.com/html/html_editors.asp).
 
-
+Shortcut: "!" + Tab
 ``` html
 <!DOCTYPE html>
 <html>
@@ -23,7 +23,7 @@ Here are given an example of a simple HTML document and a link to a documentatio
 
 Explanation:
 
-- The `<!DOCTYPE html>` declaration defines that this document is an HTML5 document. All HTML documents must start with that document type declaration.It must only appear once, at the top of the page (before any HTML tags).
+- The `<!DOCTYPE html>` declaration defines that this document is an HTML5 document. All HTML documents must start with that document type declaration. It must only appear once, at the top of the page (before any HTML tags).
   
 - The `<html>` element is the root element of an HTML page. The HTML document itself begins with `<html>` and ends with `</html>`.
   
