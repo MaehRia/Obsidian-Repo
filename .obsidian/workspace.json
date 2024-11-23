@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4b42814828976366",
@@ -216,9 +217,9 @@
   },
   "active": "2f6648fabd72b866",
   "lastOpenFiles": [
-    "Programming/Python/Python.md",
-    "Programming/HTML/HTML Basics.md",
     "Programming/HTML/HTML.md",
+    "Programming/HTML/HTML Basics.md",
+    "Programming/Python/Python.md",
     "Programming/Programming.md",
     "Finance/Ֆինանսական գրագիտության զարգացում/4․ Թվային ֆինանսներ.md",
     "Pasted image 20241109224556.png",

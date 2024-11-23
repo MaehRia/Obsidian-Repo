@@ -113,8 +113,19 @@ The source file (`src`), alternative text (`alt`), `width`, and `height`
 are provided as attributes:
 
 ```html
-<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+<img src="example.jpg" alt="example_website.com" width="104" height="142">
 ```
+
+
+There are two ways to specify the URL in the `src` attribute:
+
+**1. Absolute URL** - Links to an external image that is hosted on another website. Example: src="https://www.w3schools.com/images/img_girl.jpg".
+
+**Notes:** External images might be under copyright. If you do not get permission to use it, you may be in violation of copyright laws. In addition, you cannot control external images; it can suddenly be removed or changed.
+
+**2. Relative URL** - Links to an image that is hosted within the website. Here, the URL does not include the domain name. If the URL begins without a slash, it will be relative to the current page. Example: src="example.jpg". If the URL begins with a slash, it will be relative to the domain. Example: src="/images/example.jpg".
+
+**Tip:** It is almost always best to use relative URLs. They will not break if you change domain.
 
 ### HTML attributes
 
@@ -125,15 +136,21 @@ HTML attributes provide additional information about HTML elements.
 - Attributes are always specified in the start tag
 - Attributes always come in name-value pairs like: name="value"
 
-### The href attribute
-
-The `<a>` tag defines a hyperlink. The `href` attribute specifies the URL of the page the link goes to: 
+### The style Attribute
 
 ```html
-<a href="https://www.lanadelrey.com/">The Bible's official page</a>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The style Attribute</h2>
+<p>The style attribute is used to add styles to an element, such as color:</p>
+
+<p style="color:red;">This is a red paragraph.</p>
+
+</body>
+</html>
 ```
-
-
 
 ### Table
 
