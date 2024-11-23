@@ -35,7 +35,6 @@ kanban-plugin: board
 
 ## Must Do
 
-- [x] E-mail back to A.Torosyan
 - [ ] backup of obsidian
 - [ ] Synch of obsidian
 - [ ] Eleonori pptx-y
@@ -51,7 +50,6 @@ kanban-plugin: board
 - [ ] math logic exercises
 - [ ] prob teory hm
 - [ ] prob theory teory
-- [x] github
 - [ ] oop skipped lesson
 - [ ] oop het, set, void
 - [ ] business law
@@ -77,43 +75,6 @@ kanban-plugin: board
 ***
 
 ## Archive
-
-- [x] Mail.ru
-	maria.kirakosyan.2019@mail.ru
-- [x] to make Google as the main brawser
-- [x] Gmail
-	mariakirakosyanjan@gmail.com
-- [x] Gmail
-	maria.kirakosyan.2022@gmail.com
-- [x] manage python projects
-- [x] OR and XOR
-- [x] Obsidian
-- [x] Mail's storage
-- [x] manage courses folder
-- [x] english homework
-		essay
-		ex. 10 p.9
-- [x] matan
-		theory
-		integral exercises
-- [x] math logic
-		theory
-		exercises
-- [x] probability
-		theory
-		exercises
-		2 pages from book
-- [x] cpp
-		store exercises in obsidian
-		homework
-		pptx
-- [x] English exam
-- [x] uni vocab
-- [x] mathan hw
-- [x] mathlog hw
-- [x] share busyness law files
-- [x] englisg essay
-- [x] english text must be learnt by heart
 
 %% kanban:settings
 ```
