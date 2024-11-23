@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6e17012a64b3230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/German/Grammatik Aktiv.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grammatik Aktiv"
-            }
-          },
-          {
-            "id": "2f6648fabd72b866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/HTML/HTML Basics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTML Basics"
-            }
-          },
-          {
             "id": "210f8c1ac969e74e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "ԱԲ-ի կիրառությունը Ֆինթեքում.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "76dba2b23b464792",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/German/Grammatik Aktiv.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grammatik Aktiv"
+              "title": "ԱԲ-ի կիրառությունը Ֆինթեքում"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4b42814828976366",
@@ -199,16 +157,6 @@
             }
           },
           {
-            "id": "e8681f6b1d196b09",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
-            }
-          },
-          {
             "id": "4af3b6aa8bcf0822",
             "type": "leaf",
             "state": {
@@ -217,9 +165,29 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "37698e6df1ea87d3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "d88d78149f6b5252",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -242,8 +210,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "76dba2b23b464792",
+  "active": "210f8c1ac969e74e",
   "lastOpenFiles": [
+    "Programming/Python/Python Course for Beginners + ML.md",
+    "Programming/Python/spredsheet1.xlsx",
+    "~$Spredsheet.xlsx",
+    "~$spredsheet1.xlsx",
+    "Programming/Python/Python.md",
+    "Programming/Programming.md",
+    "Languages/German/Grammatik Aktiv.md",
     "Languages/German/German A1 Vocab.md",
     "Languages/German/German.md",
     "Languages/German/Begegnungen A1.md",
@@ -257,14 +232,11 @@
     "Finance/Finance.md",
     "MATHEMATICS/MATHEMATICS.md",
     "Physics/Physics Basics.md",
-    "Programming/Programming.md",
     "Programming/C++, OOP/C++, OOP.md",
-    "Languages/German/Grammatik Aktiv.md",
     "Kanban.md",
-    "Untitled.md",
+    "ԱԲ-ի կիրառությունը Ֆինթեքում.md",
     "Programming/HTML/HTML Basics.md",
     "Programming/HTML/HTML.md",
-    "Programming/Python/Python.md",
     "Finance/Ֆինանսական գրագիտության զարգացում/4․ Թվային ֆինանսներ.md",
     "Pasted image 20241109224556.png",
     "Pasted image 20241110093050.png",
@@ -276,7 +248,6 @@
     "Languages/English/Vocab_Unit_3.md",
     "Finance/Ֆինանսական գրագիտության զարգացում/3․ Փողի կառավարում․ կրեդիտային քարտեր VS ֆիզիկական արժույթ.md",
     "Finance/Ֆինանսական գրագիտության զարգացում/2․ Ֆինանսական անվտանգություն․ Ֆինանսական ծուղակներից պաշտպանման ուղին.md",
-    "Finance/Ֆինանսական գրագիտության զարգացում/1․ Ներածություն + Ֆին․ համակարգը ՀՀ-ում.md",
     "Docs/Pasted image 20240804005044.png",
     "Docs/Pasted image 20240804002350.png",
     "Docs/image_5.png",
@@ -286,9 +257,6 @@
     "alpha.html",
     "Remote",
     "Programming/Python/Spredsheet.xlsx",
-    "Programming/Python",
-    "Programming/HTML",
-    "Programming/C++, OOP",
-    "Programming"
+    "Programming/Python"
   ]
 }
