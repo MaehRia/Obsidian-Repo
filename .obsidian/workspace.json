@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4b42814828976366",
@@ -211,9 +212,12 @@
   },
   "active": "210f8c1ac969e74e",
   "lastOpenFiles": [
+    "Pasted image 20241124171023.png",
+    "Finance/Busyness Law/ԱԲ-ի կիրառությունը Ֆինթեքում.md",
+    "vuPe0eeWZY8i7TszVtG2RMMRLw14TK95viZVkOkX.webp",
+    "Pasted image 20241124170250.png",
     "Finance/Busyness Law/Busyness Law.md",
     "Finance/Finance.md",
-    "Finance/Busyness Law/ԱԲ-ի կիրառությունը Ֆինթեքում.md",
     "Kanban.md",
     "Programming/Python/Python Course for Beginners + ML.md",
     "Programming/Python/spredsheet1.xlsx",
@@ -246,10 +250,6 @@
     "Pasted image 20241109223828.png",
     "Languages/English/Vocab_Unit_3.md",
     "Finance/Ֆինանսական գրագիտության զարգացում/3․ Փողի կառավարում․ կրեդիտային քարտեր VS ֆիզիկական արժույթ.md",
-    "Finance/Ֆինանսական գրագիտության զարգացում/2․ Ֆինանսական անվտանգություն․ Ֆինանսական ծուղակներից պաշտպանման ուղին.md",
-    "Docs/Pasted image 20240804005044.png",
-    "Docs/Pasted image 20240804002350.png",
-    "Docs/image_5.png",
     "spredsheet1.xlsx",
     "Spredsheet.xlsx",
     "note.txt",
