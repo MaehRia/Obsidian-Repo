@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ԱԲ-ի կիրառությունը Ֆինթեքում.md",
+                "file": "Finance/Busyness Law/ԱԲ-ի կիրառությունը Ֆինթեքում.md",
                 "mode": "source",
                 "source": false
               },
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4b42814828976366",
@@ -212,8 +211,10 @@
   },
   "active": "210f8c1ac969e74e",
   "lastOpenFiles": [
+    "Finance/Busyness Law/Busyness Law.md",
+    "Finance/Finance.md",
+    "Finance/Busyness Law/ԱԲ-ի կիրառությունը Ֆինթեքում.md",
     "Kanban.md",
-    "ԱԲ-ի կիրառությունը Ֆինթեքում.md",
     "Programming/Python/Python Course for Beginners + ML.md",
     "Programming/Python/spredsheet1.xlsx",
     "~$Spredsheet.xlsx",
@@ -228,10 +229,8 @@
     "Languages/English/English Grammar In Use.md",
     "Languages/English/Vocab_Unit_1_2.md",
     "Languages/Languages.md",
-    "Finance/Busyness Law/Busyness Law.md",
     "Finance/Busyness Law/Սահմանափակ պատասխանատվությամբ ընկերությունների մասին.md",
     "Finance/Ֆինանսական գրագիտության զարգացում/Ֆինանսական գրագիտության զարգացում.md",
-    "Finance/Finance.md",
     "MATHEMATICS/MATHEMATICS.md",
     "Physics/Physics Basics.md",
     "Programming/C++, OOP/C++, OOP.md",
