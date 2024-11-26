@@ -136,7 +136,7 @@ HTML attributes provide additional information about HTML elements.
 - Attributes are always specified in the start tag
 - Attributes always come in name-value pairs like: name="value"
 
-### The style Attribute
+### The `style` Attribute
 
 ```html
 <!DOCTYPE html>
@@ -151,6 +151,22 @@ HTML attributes provide additional information about HTML elements.
 </body>
 </html>
 ```
+
+
+### The `lang` attribute
+
+```html
+<!DOCTYPE html>
+<html lang="en"> <!--<html lang="en-US"> -->
+<body>
+...
+</body>
+</html>
+```
+
+You should always include the lang attribute inside the `<html>` tag, to declare the language of the Web page. This is meant to assist search engines and browsers.
+
+Country codes can also be added to the language code in the lang attribute. So, the first two characters define the language of the HTML page, and the last two characters define the country.
 
 ### Table
 
