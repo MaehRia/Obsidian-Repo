@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "3bb3329c0d1373db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni assignments/Անհատականներ/Մաթանալիզ 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Մաթանալիզ 3"
+            }
+          },
+          {
             "id": "a4eeaca27a529708",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "HTML"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
-    "collapsed": true
+    "width": 357.5
   },
   "right": {
     "id": "4b42814828976366",
@@ -154,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/HTML/HTML Basics.md"
+                "file": "Uni assignments/Անհատականներ/Մաթանալիզ 3.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of HTML Basics"
+              "title": "Outline of Մաթանալիզ 3"
             }
           },
           {
@@ -224,10 +238,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "210f8c1ac969e74e",
+  "active": "8a9d3949cd5bcd5d",
   "lastOpenFiles": [
-    "Programming/HTML/HTML.md",
     "Programming/HTML/HTML Basics.md",
+    "Uni assignments/Անհատականներ/Մաթանալիզ 3.md",
+    "Uni assignments/Անհատականներ",
+    "Uni assignments",
+    "Programming/HTML/HTML.md",
     "Finance/Busyness Law/Busyness Law.md",
     "Finance/Finance.md",
     "Finance/Busyness Law/Արհեստական բանականությունը ֆինտեխում.md",
@@ -264,13 +281,10 @@
     "Pasted image 20241110093050.png",
     "Pasted image 20241110094315.png",
     "Languages/English/Vocab_Unit_3.md",
-    "Finance/Ֆինանսական գրագիտության զարգացում/3․ Փողի կառավարում․ կրեդիտային քարտեր VS ֆիզիկական արժույթ.md",
     "spredsheet1.xlsx",
     "Spredsheet.xlsx",
     "note.txt",
     "alpha.html",
-    "Remote",
-    "Programming/Python/Spredsheet.xlsx",
-    "Programming/Python"
+    "Remote"
   ]
 }
