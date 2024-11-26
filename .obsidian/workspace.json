@@ -11,13 +11,30 @@
             "id": "210f8c1ac969e74e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Finance/Busyness Law/Busyness Law.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Busyness Law"
+            }
+          },
+          {
+            "id": "e22ad3c099afe3c9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,9 +151,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Finance/Busyness Law/Busyness Law.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Busyness Law"
             }
           },
           {
@@ -180,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -203,15 +222,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "210f8c1ac969e74e",
+  "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
+    "Finance/Finance.md",
     "Finance/Busyness Law/Արհեստական բանականությունը ֆինտեխում.md",
     "Programming/Programming.md",
     "Programming/Machine Learning.md",
     "Docs/Pasted image 20241124230509.png",
     "Docs/Pasted image 20241124174234.png",
     "Docs/Pasted image 20241124171023.png",
-    "Finance/Finance.md",
     "Pasted image 20241124224529.png",
     "Docs/Pasted image 20241124224605.png",
     "vuPe0eeWZY8i7TszVtG2RMMRLw14TK95viZVkOkX.webp",
