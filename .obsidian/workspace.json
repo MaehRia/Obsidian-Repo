@@ -6,6 +6,7 @@
       {
         "id": "d833f50b23e363d3",
         "type": "tabs",
+        "dimension": 48.1951871657754,
         "children": [
           {
             "id": "210f8c1ac969e74e",
@@ -41,6 +42,7 @@
       {
         "id": "0f5a99ae12e0d3b6",
         "type": "tabs",
+        "dimension": 51.8048128342246,
         "children": [
           {
             "id": "0002e4b9c4b7a5d3",
@@ -245,7 +247,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "4af3b6aa8bcf0822",
+  "active": "3bb3329c0d1373db",
   "lastOpenFiles": [
     "Pasted image 20241127005216.png",
     "Programming/HTML/HTML.md",
