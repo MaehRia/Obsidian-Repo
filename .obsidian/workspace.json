@@ -34,9 +34,31 @@
               "icon": "lucide-file",
               "title": "Մաթանալիզ 3"
             }
+          },
+          {
+            "id": "55a9db634e06d088",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,10 +247,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3bb3329c0d1373db",
+  "active": "55a9db634e06d088",
   "lastOpenFiles": [
-    "Finance/Busyness Law/Արհեստական բանականությունը ֆինտեխում.md",
     "Uni assignments/Անհատականներ/Մաթանալիզ 3.md",
+    "Finance/Busyness Law/Արհեստական բանականությունը ֆինտեխում.md",
     "Pasted image 20241127005216.png",
     "Programming/HTML/HTML.md",
     "Pasted image 20241126221703.png",
