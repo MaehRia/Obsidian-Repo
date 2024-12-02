@@ -4,59 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d833f50b23e363d3",
+        "id": "78d6f6a9b665c776",
         "type": "tabs",
         "children": [
           {
-            "id": "210f8c1ac969e74e",
+            "id": "4787851b503938b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/HTML/HTML Basics.md",
+                "file": "Languages/German/Grammatik Aktiv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML Basics"
+              "title": "Grammatik Aktiv"
             }
           },
           {
-            "id": "3bb3329c0d1373db",
+            "id": "dcd4b6f13ee236f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni assignments/Անհատականներ/Մաթանալիզ 3.md",
+                "file": "Languages/German/German A1 Vocab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Մաթանալիզ 3"
+              "title": "German A1 Vocab"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "3f2afcc2d570c33d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aee3f6dd65dc5b76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uni assignments/Անհատականներ/Մաթանալիզ 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Մաթանալիզ 3"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -245,23 +225,27 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "4af3b6aa8bcf0822",
+  "active": "dcd4b6f13ee236f9",
   "lastOpenFiles": [
+    "Languages/German/Grammatik Aktiv.md",
+    "Programming/HTML/HTML Basics.md",
+    "Uni assignments/Անհատականներ/Մաթանալիզ 3.md",
+    "Languages/German/German.md",
+    "Languages/English/English.md",
+    "Languages/Languages.md",
+    "Programming/Programming.md",
     "Pasted image 20241201132823.png",
     "Screenshot 2024-11-30 210608.png",
     "Kanban.md",
     "Untitled_Answers_of_exchanges.md",
-    "Uni assignments/Անհատականներ/Մաթանալիզ 3.md",
     "Finance/Busyness Law/Արհեստական բանականությունը ֆինտեխում.md",
     "Pasted image 20241127005216.png",
     "Programming/HTML/HTML.md",
     "Pasted image 20241126221703.png",
-    "Programming/HTML/HTML Basics.md",
     "Uni assignments/Անհատականներ",
     "Uni assignments",
     "Finance/Busyness Law/Busyness Law.md",
     "Finance/Finance.md",
-    "Programming/Programming.md",
     "Programming/Machine Learning.md",
     "Docs/Pasted image 20241124230509.png",
     "Docs/Pasted image 20241124174234.png",
@@ -269,20 +253,15 @@
     "Pasted image 20241124224529.png",
     "Docs/Pasted image 20241124224605.png",
     "vuPe0eeWZY8i7TszVtG2RMMRLw14TK95viZVkOkX.webp",
-    "Pasted image 20241124170250.png",
     "Programming/Python/Python Course for Beginners + ML.md",
     "Programming/Python/spredsheet1.xlsx",
     "~$Spredsheet.xlsx",
     "~$spredsheet1.xlsx",
     "Programming/Python/Python.md",
-    "Languages/German/Grammatik Aktiv.md",
     "Languages/German/German A1 Vocab.md",
-    "Languages/German/German.md",
     "Languages/German/Begegnungen A1.md",
-    "Languages/English/English.md",
     "Languages/English/English Grammar In Use.md",
     "Languages/English/Vocab_Unit_1_2.md",
-    "Languages/Languages.md",
     "Finance/Busyness Law/Սահմանափակ պատասխանատվությամբ ընկերությունների մասին.md",
     "Finance/Ֆինանսական գրագիտության զարգացում/Ֆինանսական գրագիտության զարգացում.md",
     "MATHEMATICS/MATHEMATICS.md",
