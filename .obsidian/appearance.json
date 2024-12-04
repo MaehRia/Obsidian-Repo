@@ -4,7 +4,7 @@
   "theme": "moonstone",
   "textFontFamily": "Cascadia Code",
   "interfaceFontFamily": "Cascadia Code",
-  "baseFontSize": 30,
+  "baseFontSize": 29,
   "monospaceFontFamily": "Cascadia Code",
   "baseFontSizeAction": true
 }
