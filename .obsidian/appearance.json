@@ -1,10 +1,10 @@
 {
   "accentColor": "",
   "cssTheme": "ITS Theme",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "textFontFamily": "Cascadia Code",
   "interfaceFontFamily": "Cascadia Code",
-  "baseFontSize": 16,
+  "baseFontSize": 30,
   "monospaceFontFamily": "Cascadia Code",
   "baseFontSizeAction": true
 }
