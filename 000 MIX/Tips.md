@@ -69,9 +69,9 @@ This is a simple footnote[^1].
 Max         |Planck     
 Marie       |Curie      
 
-Left-aligned text | Center-aligned text | Right-aligned text
-:-- | :--: | --: 
-Content | Content | Content
+| Left-aligned text | Center-aligned text | Right-aligned text |
+| :---------------- | :-----------------: | -----------------: |
+| Content           |       Content       |            Content |
 
 ```mermaid
 graph TD
