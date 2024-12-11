@@ -21,7 +21,7 @@ public: //access specifier
 ```
 
 
-- `public` keyword is an access specifier, which specifies that members (attributes and methods) of the class are accessible from the outside of the class.
+- `public` keyword is an access specifier, which specifies that members (attributes and methods) of the class are accessible from the outside of the class. More info about access specifiers -> [[Classes and Objects#^ea8244]]
 - `myNum` and `myString` are called attributes, because they are declared within the class
 
 ### Creating an Object
@@ -58,6 +58,8 @@ Output:
 	Some text
 
 ### Class methods
+
+#### Definition
 
 Methods are functions that belong to the class. There are two ways to define a function that belongs to a class.
 
@@ -109,7 +111,7 @@ int main() {
 ```
 
 
-##### Parameters
+#### Parameters
 
 Parameters also can be added.
 
@@ -157,4 +159,131 @@ int main() {
   return 0;  
 }
 ```
+
+#### Constructor Parameters
+
+Here is the code which will serve as an example for explaining constructor parameters.
+
+```cpp
+#include <iostream>
+#include <string>
+
+class Car {        // The class  
+  public:          // Access specifier  
+    std::string brand;  // Attribute  
+    std::string model;  // Attribute  
+    int year;      // Attribute  
+    Car(std::string x, std::string y, int z) { // Constructor with parameters  
+      brand = x;  
+      model = y;  
+      year = z;  
+    }  
+};  
+  
+int main() {  
+  // Create Car objects and call the constructor with different values  
+  Car carObj1("BMW", "X5", 1999);  
+  Car carObj2("Ford", "Mustang", 1969);  
+  
+  // Print values  
+  std::cout << carObj1.brand << " " << carObj1.model << " " << carObj1.year << "\n";  
+  std::cout << carObj2.brand << " " << carObj2.model << " " << carObj2.year << "\n";  
+  return 0;  
+}
+```
+
+> [!question] How does constructor work here?
+
+1. Declaration.
+
+The constructor `Car(string x, string y, int z)` is declared inside the class:
+```cpp
+Car(string x, string y, int z) { 
+  brand = x;
+  model = y;
+  year = z;
+}
+```
+
+It takes three parameters (`x`, `y`, `z`) and assigns their values to the respective class attributes (`brand`, `model`, `year`).
+
+2. Execution.
+
+When the object is created with parameters:
+```cpp
+Car carObj1("BMW", "X5", 1999);
+```
+The constructor is automatically called, and the parameters `x`, `y`, and `z` are assigned to `brand`, `model`, and `year`.
+
+>[!question] Why use a constructor here?
+
+1. Convenience.
+   
+The constructor allows us to initialize the `brand`, `model`, and `year` attributes of the `Car` class **in one step** when the object is created:
+```cpp
+Car carObj1("BMW", "X5", 1999);
+```
+
+Without the constructor, you would have to set the attributes one by one after creating the object:
+```cpp
+Car carObj1;
+carObj1.brand = "BMW";
+carObj1.model = "X5";
+carObj1.year = 1999;
+
+Car carObj2;
+carObj1.brand = "Ford";
+carObj1.model = "Mustang";
+carObj1.year = 1969;
+```
+
+2. Ensures proper and fast initialization
+
+With the constructor, you can ensure that all attributes (`brand`, `model`, `year`) are initialized when the object is created.
+If you didn’t use a constructor, the attributes might remain uninitialized, leading to potential bugs.
+
+3. Supports Reusability
+
+You can reuse the same constructor for multiple objects with different values.
+
+#### Definition
+
+Just like functions, constructors can also be defined outside the class. First, declare the constructor inside the class, and then define it outside of the class by specifying the name of the class, followed by the scope resolution `::` operator, followed by the name of the constructor (which is the same as the class):
+
+```cpp
+#inlude <iostream>
+#include <string>
+
+class Car {        // The class  
+  public:          // Access specifier  
+    std::string brand;  // Attribute  
+    std::string model;  // Attribute  
+    int year;      // Attribute  
+    Car(std::string x, std::string y, int z); // Constructor declaration  
+};  
+  
+// Constructor definition outside the class  
+Car::Car(std::string x, std::string y, int z) {  
+  brand = x;  
+  model = y;  
+  year = z;  
+}  
+  
+int main() {  
+  // Create Car objects and call the constructor with different values  
+  Car carObj1("BMW", "X5", 1999);  
+  Car carObj2("Ford", "Mustang", 1969);  
+  
+  // Print values  
+  std::cout << carObj1.brand << " " << carObj1.model << " " << carObj1.year << "\n";  
+  std::cout << carObj2.brand << " " << carObj2.model << " " << carObj2.year << "\n";  
+  return 0;  
+}
+```
+
+
+### Access specifiers
+
+^ea8244
+
 
