@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Students/Կամո Մկրտչյան.md",
+                "file": "Programming/C++, OOP/C++, OOP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Կամո Մկրտչյան"
+              "title": "C++, OOP"
             }
           }
         ],
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
-    "collapsed": true
+    "width": 357.5
   },
   "right": {
     "id": "4b42814828976366",
@@ -183,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Students/Կամո Մկրտչյան.md"
+                "file": "Programming/C++, OOP/C++, OOP.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Կամո Մկրտչյան"
+              "title": "Outline of C++, OOP"
             }
           },
           {
@@ -255,19 +254,19 @@
   },
   "active": "a1db2f166b48c5e5",
   "lastOpenFiles": [
+    "Uni assignments/Անհատականներ/CPP 3.md",
+    "Programming/C++, OOP/C++, OOP.md",
+    "Programming/C++, OOP/C++ Uni material.md",
+    "Programming/C++, OOP/C++ notes.md",
+    "Students/Կամո Մկրտչյան.md",
     "000 MIX/Untitled_Answers_of_exchanges.md",
     "Classes and Objects.md",
     "Untitled.md",
-    "Uni assignments/Անհատականներ/CPP 3.md",
-    "Programming/C++, OOP/C++ Uni material.md",
-    "Programming/C++, OOP/C++, OOP.md",
     "Object-Oriented Programming.md",
-    "Programming/C++, OOP/C++ notes.md",
     "Programming/C++, OOP/String and Stringstream class.md",
     "Programming/Programming.md",
     "Programming/HTML/HTML Basics.md",
     "Uni assignments/Անհատականներ/Մաթանալիզ 3.md",
-    "Students/Կամո Մկրտչյան.md",
     "Pasted image 20241126221703.png",
     "viber_image_2024-12-06_13-57-13-499.jpg",
     "000 MIX/Tips.md",
