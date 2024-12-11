@@ -4,7 +4,7 @@ C++ is an object-oriented programming language.
 
 Everything in C++ is associated with classes and objects, along with its attributes and methods. For example: in real life, a car is an **object**. The car has **attributes**, such as weight and color, and methods, such as drive and brake.
 
-Attributes and methods are basically **variables** and **functions** that belongs to the class. These are often referred to as "class members".
+Attributes and methods are basically variables and functions that belongs to the class. These are often referred to as "class members".
 
 A class is a user-defined data type that we can use in our program, and it works as an object constructor, or a "blueprint" for creating objects.
 
@@ -107,3 +107,54 @@ int main() {
   return 0;  
 }
 ```
+
+
+##### Parameters
+
+Parameters also can be added.
+
+```cpp
+#include <iostream>  
+using namespace std;  
+  
+class Car {  
+  public:  
+    int speed(int maxSpeed);  
+};  
+  
+int Car::speed(int maxSpeed) {  
+  return maxSpeed;  
+}  
+  
+int main() {  
+  Car myObj; // Create an object of Car  
+  cout << myObj.speed(200); // Call the method with an argument  
+  return 0;  
+}
+```
+
+Output: 200
+
+
+### Constructors
+
+A constructor in c++ is a special method called automatically when an object of a class is created.
+
+To create a constructor, use the same name as the class, followed by parentheses.
+
+The constructor has the same name as the class, it is always `public`, and it does not have any return value.
+
+```cpp
+class MyClass {     // The class  
+  public:           // Access specifier  
+    MyClass() {     // Constructor  
+      cout << "Hello World!";  
+    }  
+};  
+  
+int main() {  
+  MyClass myObj;    // Create an object of MyClass (this will call the constructor)  
+  return 0;  
+}
+```
+
