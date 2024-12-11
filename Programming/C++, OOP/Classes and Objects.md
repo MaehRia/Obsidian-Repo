@@ -285,5 +285,10 @@ int main() {
 ### Access specifiers
 
 ^ea8244
+In C++, there are three access specifiers:
 
+- `public` - members are accessible from outside the class
+- `private` - members cannot be accessed (or viewed) from outside the class
+- `protected` - members cannot be accessed from outside the class, however, they can be accessed in inherited classes. 
 
+By default, all members of a class are `private` if you don't specify an access specifier․
