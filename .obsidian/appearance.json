@@ -4,7 +4,7 @@
   "theme": "obsidian",
   "textFontFamily": "Cascadia Code",
   "interfaceFontFamily": "Cascadia Code",
-  "baseFontSize": 18,
+  "baseFontSize": 16,
   "monospaceFontFamily": "Cascadia Code",
   "baseFontSizeAction": true
 }
