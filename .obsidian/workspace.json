@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math Logic.md",
+                "file": "Մաթեմատիկական տրամաբանութուն.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Math Logic"
+              "title": "Մաթեմատիկական տրամաբանութուն"
             }
           }
         ],
@@ -169,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Logic.md"
+                "file": "Մաթեմատիկական տրամաբանութուն.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Math Logic"
+              "title": "Outline of Մաթեմատիկական տրամաբանութուն"
             }
           },
           {
@@ -220,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,7 +241,8 @@
   },
   "active": "e50b60b30fd72bbb",
   "lastOpenFiles": [
-    "Math Logic.md",
+    "Pasted image 20241219011551.png",
+    "Մաթեմատիկական տրամաբանութուն.md",
     "Programming/C++, OOP/Classes and Objects.md",
     "Students/Կամո Մկրտչյան.md",
     "Uni assignments/Անհատականներ/CPP 3_Վիրտուալ ֆունկցիաներ.md",
@@ -276,7 +278,6 @@
     "Languages/German/German.md",
     "Languages/English/English.md",
     "Kanban.md",
-    "Finance/Busyness Law/Արհեստական բանականությունը ֆինտեխում.md",
     "Uni assignments/Անհատականներ",
     "Uni assignments",
     "Programming/Python/spredsheet1.xlsx",
