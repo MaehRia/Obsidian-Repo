@@ -96,3 +96,126 @@ int main() {
 }
 
 ```
+
+#### Օպերատորի բեռնում թվերի համար:
+
+Օպերատորի բեռնումը կարող է օգտագործվել նաև այլ տվյալների տեսակների համար, օրինակ՝ թվերի։
+
+```cpp
+#include <iostream>
+using namespace std;
+
+class ComplexNum {
+private:
+    int real, imag;
+public:
+    ComplexNum(int r, int i) : real(r), imag(i) {}
+
+    // Օպերատոր + բեռնում՝ համալիրված թվերի գումարման համար
+    ComplexNum operator + (const ComplexNum& other) {
+        return ComplexNum(real + other.real, imag + other.imag);
+    }
+
+    void print() {
+        cout << real << " + " << imag << "i" << endl;
+    }
+};
+
+int main() {
+    ComplexNum num1(2, 3);
+    ComplexNum num2(4, 5);
+    ComplexNum result = num1 + num2;  // Համալիրված թվերի գումարում
+    result.print();  // Արդյունք՝ "6 + 8i"
+    
+    return 0;
+}
+
+```
+
+### Կատարման ժամանակի պոլիմորֆիզմ
+
+Սա տեղի է ունենում, երբ օբյեկտի մեթոդը կանչվում է ծրագրի կատարման ժամանակ, այլ ոչ թե կոմպիլյացիայի ժամանակ։ Կատարման ժամանակի պոլիմորֆիզմը իրականացվում է ֆունկցիաների վերասահմանման միջոցով։ Կանչվող ֆունկցիան որոշվում է ծրագրի կատարման ընթացքում։
+
+1. Ֆունկցիայի վերասահմանում
+
+```cpp
+#include <iostream>
+using namespace std;
+
+class Animal {
+
+public:
+    void speak() {
+        cout << "Animals make sounds..." << endl;
+    }
+};
+
+class Dog : public Animal {
+
+public:
+    void speak() {
+        cout << "Dogs bark..." << endl;
+    }
+};
+
+int main() {
+    Dog myDog;
+
+    myDog.speak();  // Կանչում ենք Dog դասի speak() ֆունկցիան։
+
+    return 0;
+}
+
+```
+
+
+2. Վիրտուալ ֆունկցիա
+
+Վիրտուալ ֆունկցիան C++-ում կատարման ժամանակի պոլիմորֆիզմի իրականացման ևս մեկ մեխանիզմ է։ Այն հատուկ ֆունկցիա է, որը սահմանվում է բազային դասում և վերասահմանվում է ժառանգորդ դասում։ Վիրտուալ ֆունկցիա հայտարարելու համար պետք է օգտագործել **`virtual`** բանալին։ Այս բանալին պետք է նախորդի բազային դասի ֆունկցիայի հայտարարությանը։
+
+Երբ վիրտուալ ֆունկցիան ժառանգվում է, ժառանգորդ դասը կարող է վերասահմանել այն՝ ըստ իր պահանջների։
+
+```cpp
+#include <iostream>
+using namespace std;
+
+// Բազային դաս
+class Animal {
+public:
+    virtual void speak() {
+        cout << "Animals make sounds." << endl;
+    }
+};
+
+// Արտադրողական դաս 1
+class Dog : public Animal {
+public:
+    void speak() override {
+        cout << "Dogs bark." << endl;
+    }
+};
+
+// Արտադրողական դաս 2
+class Cat : public Animal {
+public:
+    void speak() override {
+        cout << "Cats meow." << endl;
+    }
+};
+
+int main() {
+    Animal* animal;  // Բազային դասի ցուցիչ
+
+    Dog dog;
+    Cat cat;
+
+    animal = &dog;  // Ցուցիչը ուղղում ենք Dog օբյեկտին
+    animal->speak();  // Կանչում է Dog դասի speak()
+
+    animal = &cat;  // Ցուցիչը ուղղում ենք Cat օբյեկտին
+    animal->speak();  // Կանչում է Cat դասի speak()
+
+    return 0;
+}
+
+```
