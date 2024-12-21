@@ -97,6 +97,10 @@ int main() {
 
 ```
 
+Output: 
+![[Pasted image 20241221183628.png]]
+
+
 #### Օպերատորի բեռնում թվերի համար:
 
 Օպերատորի բեռնումը կարող է օգտագործվել նաև այլ տվյալների տեսակների համար, օրինակ՝ թվերի։
@@ -179,7 +183,7 @@ int main() {
 #include <iostream>
 using namespace std;
 
-// Բազային դաս
+// Ծնող դաս
 class Animal {
 public:
     virtual void speak() {
@@ -187,7 +191,7 @@ public:
     }
 };
 
-// Արտադրողական դաս 1
+// Ժառանգորդ դաս 1
 class Dog : public Animal {
 public:
     void speak() override {
@@ -195,7 +199,7 @@ public:
     }
 };
 
-// Արտադրողական դաս 2
+// Ժառանգորդ դաս 2
 class Cat : public Animal {
 public:
     void speak() override {
