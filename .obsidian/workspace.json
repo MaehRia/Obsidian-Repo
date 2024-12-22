@@ -35,7 +35,8 @@
               "title": "Կամո Մկրտչյան"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 357.5,
+    "collapsed": true
   },
   "right": {
     "id": "4b42814828976366",
@@ -225,10 +227,10 @@
   },
   "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
+    "Uni assignments/Անհատականներ/CPP 3_Վիրտուալ ֆունկցիաներ.md",
     "Pasted image 20241221183628.png",
     "Uni assignments/Անհատականներ/Մաթանալիզ 3.md",
     "Students/Կամո Մկրտչյան.md",
-    "Uni assignments/Անհատականներ/CPP 3_Վիրտուալ ֆունկցիաներ.md",
     "Uni assignments/Անհատականներ/Math Logic.md",
     "Finance/Finance.md",
     "Programming/Programming.md",
@@ -247,7 +249,6 @@
     "Programming/C++, OOP/Classes and Objects.md",
     "000 MIX/Untitled_Answers_of_exchanges.md",
     "Languages/English/Vocab_Unit_3.md",
-    "Docs/viber_image_2024-12-10_16-50-27-931.jpg",
     "000 MIX/Tips.md",
     "Finance/Ֆինանսական գրագիտության զարգացում/Ֆինանսական գրագիտության զարգացում.md",
     "Finance/Ֆինանսական գրագիտության զարգացում/5. Էլեկտրոնային բանկինգի մաքսիմալացում.md",
