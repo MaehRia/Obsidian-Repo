@@ -333,7 +333,7 @@ kidney failure
 ?
 a condition in which the kidneys stop working and are not able to remove waste and extra water from the blood or keep body chemicals in balance
 
-keep-fit
+keep-fit activity
 ?
 physical exercises to keep your body healthy, often done regularly with other people
 
@@ -391,6 +391,11 @@ neglect
    e.g. I'd neglected to give him the name of the hotel where I'd be staying.
 
 # O 
+
+outdoor pursuit
+?
+something that you do outside as a sport or hobby
+
 # P
 
 to point the finger of blame at someone
