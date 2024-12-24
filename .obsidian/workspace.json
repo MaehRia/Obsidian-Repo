@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a2024fead8463e3a",
+        "id": "e96cdfb8610776e5",
         "type": "tabs",
         "children": [
           {
-            "id": "9c8588540e2ffce1",
+            "id": "322c799dfed24ebb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uni assignments/Անհատականներ/CPP 3_Վիրտուալ ֆունկցիաներ.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CPP 3_Վիրտուալ ֆունկցիաներ"
-            }
-          },
-          {
-            "id": "c42c7db2b975aa12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Students/Կամո Մկրտչյան.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Կամո Մկրտչյան"
-            }
-          },
-          {
-            "id": "a1c72341df87fd62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 MIX/Untitled_Answers_of_exchanges.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled_Answers_of_exchanges"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,7 +206,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "c42c7db2b975aa12",
+  "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
     "000 MIX/Untitled_Answers_of_exchanges.md",
     "Students/Կամո Մկրտչյան.md",
