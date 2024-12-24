@@ -107,6 +107,9 @@ play (about / around) with:
 	2. to think about or try different ways of doing something.
 	e.g. We've been playing around with ideas for a new TV show.
 
+poxy
+?
+having little importance, value
 
 # Q
 # R
