@@ -194,6 +194,10 @@ günstig
 convenient
 <!--SR:!2024-11-18,1,196-->
 
+glück
+?
+happy
+
 # H
 
 hören
@@ -333,6 +337,10 @@ meistens
 ?
 mostly
 <!--SR:!2024-11-18,1,231-->
+
+der Monat
+?
+month
 
 # N
 
