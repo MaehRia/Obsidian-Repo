@@ -33,4 +33,29 @@ the maximum amount that something can contain
 
 chart
 ?
-diagramm
+a graphical representation for data visualization
+
+append
+?
+add to the end of something
+
+bar
+?
+a toolbar
+
+backup
+?
+a copy of computer data taken and stored elsewhere so that it may be used to restore the original after a data loss event
+
+drive
+?
+a hardware component that stores and retrieves digital data on a computer
+
+directory
+?
+a hierarchical structure that organizes files and other resources on a computer or network
+
+EGA
+?
+Enhanced Graphics Adapter
+
