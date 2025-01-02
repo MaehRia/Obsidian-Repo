@@ -22,3 +22,15 @@ an act of exchanging one thing for another
 set-up or setup
 ?
 the act of making the program ready for execution
+
+word wrap
+?
+a feature or technique used in text editors, word processors, and other software applications to automatically wrap text to the next line when it reaches the end of a line or a specified margin
+
+capacity
+?
+the maximum amount that something can contain
+
+chart
+?
+diagramm
