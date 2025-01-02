@@ -59,3 +59,6 @@ EGA
 ?
 Enhanced Graphics Adapter
 
+form feed
+?
+a control character in computing and printing that directs the printer to advance paper to the next page
