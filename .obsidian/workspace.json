@@ -34,9 +34,18 @@
               "icon": "lucide-file",
               "title": "Երկրաչափություն"
             }
+          },
+          {
+            "id": "8645c36c4c04d87a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,10 +234,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "1061e741fe6369ed",
+  "active": "7b1e01a73805cb74",
   "lastOpenFiles": [
-    "Pasted image 20250103114334.png",
     "Երկրաչափություն.md",
+    "Pasted image 20250103114334.png",
     "000 MIX/Untitled_Answers_of_exchanges.md",
     "Languages/English/Vocabulary.md",
     "Vocab_IT.md",
@@ -254,7 +263,6 @@
     "Docs/Pasted image 20241207130512.png",
     "Pasted image 20241216210314.png",
     "Docs/Pasted image 20241201132823.png",
-    "Docs/Pasted image 20241126221703.png",
     "Languages/Languages.md",
     "Programming/C++, OOP/Classes and Objects.md",
     "Languages/English/Vocab_Unit_3.md",
