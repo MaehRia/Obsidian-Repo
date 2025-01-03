@@ -155,4 +155,66 @@ having or showing practical knowledge and experience
 
 
 
+
+make allowances for someone
+go easy on someone
+to be in the same boat
+come up with something
+undermine(gradually make less strong)
+nuisance(the use of a place or property in a way that causes public annoyance)
+testify for the prosecution / defense
+hold up someone/something (to rob or try to rob (a place or person) by using violence)
+make off with something (to steal (something) and take it away with you)
+be on the run (try to hide or escape from the police)
+assault (attack someone in a violent way)
+conviction (a decision in a court of law that someone is guilty of a crime, or the process of proving that someone is guilty)
+bail (the temporary release of an accused person awaiting trial, sometimes on condition that a sum of money is lodged to guarantee their appearance in court)
+front (a legal business that someone operates in order to hide the illegal activities that they
+are involved in) 
+pose as someone
+stand trial (to be judged at a court of law)
+undercover (undercover work is done secretly by the police in order to catch criminals or find out information)
+bribe (money or a gift that you illegally give
+someone to persuade them to do something
+for you)
+
+lap (one complete trip around a race track)
+burn off (to use energy that is stored in body)
+deliberately (intentioanlly)
+foul (an act that prevents the opponent team from winning)
+stroke (the action of hitting the ball)
+talk back (answer to an authorithy in a  rude way)
+break-in
+workout
+go ahead (if an event or process goes ahead, it happens)
+go-ahead (permission to start doing something)
+turn out (if a lot of people turn out for an event, they go to watch it or take part in it)
+turnout (the number of people who go to a party, meeting or other organized event)
+lie-down (a short rest, usually on a bed)
+write up (to write something using notes that were taken before)
+write-up (review, written opinion)
+streak (повадка)
+one the ball (able to think or act quickly and intelligently)
+at any moment (extremely soon)
+at your expense (за свой счёт)
+by rights (օրենքով)
+in full swing (if an event or process is in full swing, it has reached its highest level of activity)
+in the long run (later in future)
+in the red (owing more money than you have)
+on second thoughts (used to say that you have changed your mind about something)
+on prescription (a drug that you get on prescription can only be obtained with a written order from a doctor)
+on the house (if drinks or meals are on the house, you do not have to pay for them because they are provided free by the owner)
+pendant (кулон)
+stud (a small round earring)
+debt of gratitude (the fact of being grateful)
+invaluable (extremely useful)
+leading figure
+catch up (on)
+crack down on ( to become more strict in dealing with a problem and punishing the people involved)
+fall out =! make up
+stand in for (to temporarily do the job of someone else or take their place)
+fight back (to work hard to achieve or oppose
+(something), especially in a situation where
+you are losing)
+
 #English_Vocab
