@@ -11,18 +11,10 @@
             "id": "7b1e01a73805cb74",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -40,16 +32,26 @@
             }
           },
           {
-            "id": "8645c36c4c04d87a",
+            "id": "bcefe720653ed02e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,11 +239,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "7b1e01a73805cb74",
+  "active": "bcefe720653ed02e",
   "lastOpenFiles": [
-    "Kanban.md",
-    "Untitled Kanban.md",
     "Երկրաչափություն.md",
+    "Kanban.md",
+    "Kanban.md",
     "MATHEMATICS/MATHEMATICS.md",
     "Vocab_IT.md",
     "000 MIX/Untitled_Answers_of_exchanges.md",
