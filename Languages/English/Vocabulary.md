@@ -40,6 +40,11 @@ culmination
 ?
 the point at which an event or series of events ends, having developed until it reaches this point
 
+conceit
+?
+the state of being too proud of yourself and your actions
+e.g. The conceit of that man is incredible.
+
 # D
 
 defiance
@@ -56,10 +61,10 @@ evoke
 ?
 bring or recall (a feeling, memory, or image) to the conscious mind
 
-conceit
+exposed
 ?
-the state of being too proud of yourself and your actions
-e.g. The conceit of that man is incredible.
+1. unprotected, vulnerable
+2. uncovered, being exposed to judgement
 
 # F
 
@@ -70,6 +75,11 @@ grumble about
 to complain about someone or something in an annoyed way
 e.g. She spent the evening grumbling to me about her job.
 <!--SR:!2024-09-15,1,230-->
+
+gorge
+?
+1. eat a large amount greedily; fill oneself with food.
+2. a narrow valley between hills or mountains, typically with steep rocky walls and a stream running through it.
 
 # H
 
@@ -131,6 +141,11 @@ having little importance, value
 
 # Q
 # R
+
+recuse
+?
+1.  declare oneself unable to participate in a case
+2. (legal removal) remove a judge from a case for potential biassssssss
 # S
 
 second guess yourself
@@ -145,10 +160,23 @@ savvy
 ?
 having or showing practical knowledge and experience
 
+shirk
+?
+avoid or neglect a duty or responsibility 
+
 # T
+
+exist in torment 
+?
+refers to a state of suffering, distress, or emotional pain
+
 # U
 # V
 # W
+
+well-honed
+?
+highly developed
 # X
 # Y
 # Z

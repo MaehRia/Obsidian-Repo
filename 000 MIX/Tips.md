@@ -116,7 +116,7 @@ Some hidden toggle content!
 ![](../images/cool.jpg)
 ```
 
-
+$$\boxed{f(x)-P_n(x)\leq\frac{(b-a)^a}{2^n2^{n-1}(n+1)!}f^{n+1}(\xi)}$$
 # A
 # B
 # C

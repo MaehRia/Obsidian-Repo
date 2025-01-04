@@ -1,10 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "Tokyo Night",
+  "cssTheme": "ITS Theme",
   "theme": "obsidian",
   "textFontFamily": "Cascadia Code",
   "interfaceFontFamily": "Cascadia Code",
   "baseFontSize": 17,
   "monospaceFontFamily": "Cascadia Code",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "nativeMenus": true
 }
