@@ -145,7 +145,7 @@ having little importance, value
 recuse
 ?
 1.  declare oneself unable to participate in a case
-2. (legal removal) remove a judge from a case for potential biassssssss
+2. (legal removal) remove a judge from a case for potential bias
 # S
 
 second guess yourself
