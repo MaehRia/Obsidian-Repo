@@ -206,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,7 +225,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "09c1130be4902e94",
+  "active": "89259f6a227c503e",
   "lastOpenFiles": [
     "Pasted image 20250105201545.png",
     "MATHEMATICS/Անալիտիկ երկրաչափություն/4. Վեկտորների գծային կախվածություն և անկախություն.md",
