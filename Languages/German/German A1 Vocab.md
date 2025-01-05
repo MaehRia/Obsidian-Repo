@@ -3,6 +3,13 @@ Resource: Begegnungen A1 (Anna Buscha, Szilvia Szita)
 
 #German_A1
 
+ich mag, weiß
+du magst, weißt
+er mag, weiß
+wir mögen, wissen
+ihr mögt, wißt
+sie mögen, wissen
+
 # A
 
 andere
@@ -45,6 +52,10 @@ die Antwort
 ?
 answer
 <!--SR:!2024-11-18,1,231-->
+
+Augen
+?
+eyes
 
 # B
 
@@ -135,6 +146,10 @@ die Einladung
 invitation
 <!--SR:!2024-11-18,1,231-->
 
+etwas
+?
+something
+
 # F 
 
 die Frage
@@ -195,6 +210,14 @@ convenient
 <!--SR:!2024-11-18,1,196-->
 
 glück
+?
+happy
+
+grüne
+?
+green
+
+glücklich
 ?
 happy
 
@@ -546,6 +569,10 @@ verstehe
 ?
 hear, listen, understand
 <!--SR:!2024-11-18,1,231-->
+
+verheiratet
+?
+wedded
 
 # W
 
