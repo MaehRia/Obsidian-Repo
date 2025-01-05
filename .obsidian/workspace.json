@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATHEMATICS/Անալիտիկ երկրաչափություն/1.Դետերմինանտներ.md",
+                "file": "MATHEMATICS/Անալիտիկ երկրաչափություն/4. Վեկտորների գծային կախվածություն և անկախություն.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Դետերմինանտներ"
+              "title": "4. Վեկտորների գծային կախվածություն և անկախություն"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni assignments/Անհատականներ/CPP 3_Վիրտուալ ֆունկցիաներ.md"
+                "file": "MATHEMATICS/Անալիտիկ երկրաչափություն/4. Վեկտորների գծային կախվածություն և անկախություն.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CPP 3_Վիրտուալ ֆունկցիաներ"
+              "title": "Outline of 4. Վեկտորների գծային կախվածություն և անկախություն"
             }
           },
           {
@@ -201,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -226,6 +226,7 @@
   },
   "active": "bcefe720653ed02e",
   "lastOpenFiles": [
+    "MATHEMATICS/Անալիտիկ երկրաչափություն/1.Դետերմինանտներ.md",
     "MATHEMATICS/Անալիտիկ երկրաչափություն/4. Վեկտորների գծային կախվածություն և անկախություն.md",
     "Բազային Երկրաչափություն.md",
     "Languages/English/Vocabulary.md",
@@ -261,7 +262,6 @@
     "Docs/Pasted image 20241201132823.png",
     "Languages/Languages.md",
     "Programming/C++, OOP/Classes and Objects.md",
-    "Languages/English/Vocab_Unit_3.md",
     "Students",
     "Uni assignments/Անհատականներ",
     "Uni assignments",
