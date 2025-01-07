@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ad7b1976747e5d6f",
+        "id": "de3085926091cbf4",
         "type": "tabs",
         "children": [
           {
-            "id": "5bd77987dd699ba0",
+            "id": "081e03450af0d6ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Բուրգի ծավալը և եռանկյան մակերեսը.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Բուրգի ծավալը և եռանկյան մակերեսը"
+              "title": "New tab"
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "4b42814828976366",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/English/English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for English"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/English/English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from English"
+              "title": "Outgoing links"
             }
           },
           {
@@ -139,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Բուրգի ծավալը և եռանկյան մակերեսը.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Բուրգի ծավալը և եռանկյան մակերեսը"
+              "title": "Outline"
             }
           },
           {
@@ -186,8 +177,7 @@
               "title": "Markdown-Autocomplete"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,44 +201,44 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "5bd77987dd699ba0",
+  "active": "081e03450af0d6ec",
   "lastOpenFiles": [
-    "Հարթության հավասարումը տարածության մեջ։ Կետի հեռավորությունը հարթությունից.md",
-    "Բուրգի ծավալը և եռանկյան մակերեսը.md",
-    "Ուղղի հավասարումը հարթության վրա։ Կետի հեռավորությունը ուղղից.md",
-    "Ուղղի հավասարումը տարածության մեջ.md",
-    "Բազային Երկրաչափություն.md",
-    "000 MIX/Tips.md",
-    "Հարթությունների փոխդասավորությունը տարածության մեջ (հարթությունների կազմած անկյունը).md",
-    "Pasted image 20250107160134.png",
-    "Pasted image 20250107144353.png",
-    "Կետի հեռավորությունը հարթությունից.md",
-    "Pasted image 20250107134329.png",
-    "Pasted image 20250107134310.png",
+    "Languages/English/English.md",
+    "Finance/Finance.md",
+    "Finance/Busyness Law/Busyness Law.md",
+    "MATHEMATICS/Մաթ․ անալիզ/Մաթ․ անալիզ.md",
+    "MATHEMATICS/Անալիտիկ երկրաչափություն/Անալիտիկ երկրաչափություն.md",
+    "Finance/Ֆինանսական գրագիտության զարգացում/Ֆինանսական գրագիտության զարգացում.md",
+    "Programming/C++, OOP/C++, OOP.md",
+    "Programming/Programming.md",
+    "MATHEMATICS/MATHEMATICS.md",
+    "Languages/Languages.md",
+    "Untitled _Exchange Programmes.md",
+    "Docs/Pasted image 20250106152920.png",
+    "Docs/Pasted image 20250105201545.png",
+    "Docs/Pasted image 20250106153009.png",
+    "Docs/Pasted image 20250106153037.png",
+    "Docs/Pasted image 20250106153210.png",
+    "Docs/Pasted image 20250106212010.png",
+    "Docs/Pasted image 20250107134310.png",
+    "Docs/Pasted image 20250107134329.png",
+    "MATHEMATICS/Անալիտիկ երկրաչափություն/Հարթությունների փոխդասավորությունը տարածության մեջ (հարթությունների կազմած անկյունը).md",
+    "Docs/Pasted image 20250108000654.png",
     "Pasted image 20250106223620.png",
-    "Pasted image 20250106212010.png",
+    "Programming/C++, OOP/CPP 3(անհատական)։ Վիրտուալ ֆունկցիաներ.md",
+    "MATHEMATICS/Մաթ․ անալիզ/Մաթանալիզ 3(անհատական).md",
+    "Languages/English/English Grammar In Use.md",
+    "MATHEMATICS/Անալիտիկ երկրաչափություն/Բազային Երկրաչափություն.md",
+    "MATHEMATICS/Անալիտիկ երկրաչափություն/Բուրգի ծավալը և եռանկյան մակերեսը.md",
+    "MATHEMATICS/Անալիտիկ երկրաչափություն/Հարթության հավասարումը տարածության մեջ։ Կետի հեռավորությունը հարթությունից.md",
+    "MATHEMATICS/Անալիտիկ երկրաչափություն/Ուղղի հավասարումը հարթության վրա։ Կետի հեռավորությունը ուղղից.md",
+    "MATHEMATICS/Անալիտիկ երկրաչափություն/Ուղղի հավասարումը տարածության մեջ.md",
+    "000 MIX/Tips.md",
+    "Կետի հեռավորությունը հարթությունից.md",
     "MATHEMATICS/Անալիտիկ երկրաչափություն/3․Երկու վեկտորներով կազմած անկյուն, վեկտորի պրոյեկցիա առանցքի վրա.md",
-    "Pasted image 20250106153210.png",
-    "Pasted image 20250106153037.png",
-    "Pasted image 20250106153009.png",
-    "Pasted image 20250106152920.png",
     "MATHEMATICS/Անալիտիկ երկրաչափություն/4. Վեկտորների գծային կախվածություն և անկախություն.md",
     "MATHEMATICS/Անալիտիկ երկրաչափություն/2․Վեկտորի գաղափարը. Գծային գործողություններ վեկտորների հետ.md",
     "MATHEMATICS/Անալիտիկ երկրաչափություն/1.Դետերմինանտներ.md",
-    "Languages/German/German A1 Vocab.md",
-    "Languages/Languages.md",
-    "Languages/English/Vocabulary.md",
-    "Vocab_IT.md",
-    "Kanban.md",
-    "MATHEMATICS/Մաթ․ անալիզ/Որոշյալ Ինտեգրալ.md",
-    "MATHEMATICS/Մաթ․ անալիզ/Մաթ․ անալիզ.md",
-    "MATHEMATICS/Մաթ․ տրամաբանություն/2.Պրեդիկատներ.md",
-    "MATHEMATICS/MATHEMATICS.md",
-    "MATHEMATICS/Մաթ․ տրամաբանություն/1.Ասույթների հաշիվ.md",
-    "000 MIX/Untitled_Answers_of_exchanges.md",
-    "Untitled _Exchange Programmes.md",
-    "Students/Կամո Մկրտչյան.md",
-    "Languages/English/Vocab_Unit_1_2.md",
     "Students",
     "Uni assignments/Անհատականներ",
     "Uni assignments",
