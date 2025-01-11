@@ -4,29 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "de3085926091cbf4",
+        "id": "7583ab8ead9688e7",
         "type": "tabs",
         "children": [
           {
-            "id": "081e03450af0d6ec",
+            "id": "3bf6098c42142de8",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "000 MIX/Untitled_Answers_of_exchanges.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban"
+              "icon": "lucide-file",
+              "title": "Untitled_Answers_of_exchanges"
             }
           }
         ]
@@ -85,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "4b42814828976366",
@@ -194,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -218,8 +211,10 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "081e03450af0d6ec",
+  "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
+    "Untitled _Exchange Programmes.md",
+    "Kanban.md",
     "MATHEMATICS/MATHEMATICS.md",
     "MATHEMATICS/Անալիտիկ երկրաչափություն/Ուղղի հավասարումը տարածության մեջ.md",
     "MATHEMATICS/Անալիտիկ երկրաչափություն/Ուղղի հավասարումը հարթության վրա։ Կետի հեռավորությունը ուղղից.md",
@@ -230,10 +225,8 @@
     "MATHEMATICS/Անալիտիկ երկրաչափություն/Բազային Երկրաչափություն.md",
     "MATHEMATICS/Անալիտիկ երկրաչափություն/Անալիտիկ երկրաչափություն.md",
     "MATHEMATICS/Մաթ․ անալիզ/Մաթ․ անալիզ.md",
-    "Kanban.md",
     "Students/Կամո Մկրտչյան.md",
     "Untitled_2025.md",
-    "Untitled _Exchange Programmes.md",
     "MATHEMATICS/Մաթ․ անալիզ/Մաթանալիզ 3(անհատական).md",
     "MATHEMATICS/Մաթ․ տրամաբանություն/Մաթ․ տրամաբանություն.md",
     "MATHEMATICS/Հավ․ տես/Հավ․ տես.md",
