@@ -20,8 +20,31 @@
               "icon": "lucide-file",
               "title": "Untitled_Answers_of_exchanges"
             }
+          },
+          {
+            "id": "60dc4737406f2fb7",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,8 +234,9 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "4af3b6aa8bcf0822",
+  "active": "60dc4737406f2fb7",
   "lastOpenFiles": [
+    "000 MIX/Untitled_Answers_of_exchanges.md",
     "Untitled _Exchange Programmes.md",
     "Kanban.md",
     "MATHEMATICS/MATHEMATICS.md",
@@ -238,7 +262,6 @@
     "Programming/C++, OOP/CPP 3(անհատական)։ Վիրտուալ ֆունկցիաներ.md",
     "MATHEMATICS/Անալիտիկ երկրաչափություն/2․Վեկտորի գաղափարը. Գծային գործողություններ վեկտորների հետ.md",
     "Languages/English/English.md",
-    "Finance/Finance.md",
     "Docs/Pasted image 20250106152920.png",
     "Docs/Pasted image 20250105201545.png",
     "Docs/Pasted image 20250106153009.png",
