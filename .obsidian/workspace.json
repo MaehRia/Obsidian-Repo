@@ -43,7 +43,8 @@
               "title": "Kanban"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,8 +234,9 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "4af3b6aa8bcf0822",
+  "active": "60dc4737406f2fb7",
   "lastOpenFiles": [
+    "Mathematics/Մաթ․ անալիզ/Մաթանալիզ 3(անհատական).md",
     "Mathematics/Մաթ․ անալիզ/Մաթ․ անալիզ.md",
     "Mathematics/Անալիտիկ երկրաչափություն/Անալիտիկ երկրաչափություն.md",
     "Mathematics/MATHEMATICS.md",
@@ -250,7 +252,6 @@
     "Mathematics/Անալիտիկ երկրաչափություն/Բուրգի ծավալը և եռանկյան մակերեսը.md",
     "Mathematics/Անալիտիկ երկրաչափություն/Բազային Երկրաչափություն.md",
     "Students/Կամո Մկրտչյան.md",
-    "Mathematics/Մաթ․ անալիզ/Մաթանալիզ 3(անհատական).md",
     "Mathematics/Մաթ․ տրամաբանություն/Մաթ․ տրամաբանություն.md",
     "Mathematics/Հավ․ տես/Հավ․ տես.md",
     "Programming/Programming.md",
