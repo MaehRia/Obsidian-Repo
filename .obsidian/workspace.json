@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bf6098c42142de8",
+            "id": "c8ddc2ba0bc6bb42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Students/Կամո Մկրտչյան.md",
+                "file": "Հավտես։ Քննական հարցեր.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Կամո Մկրտչյան"
+              "title": "Հավտես։ Քննական հարցեր"
             }
           }
         ]
@@ -177,7 +177,7 @@
             }
           },
           {
-            "id": "e798ae3ebe8efeff",
+            "id": "4fa967b39469b169",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -211,12 +211,13 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "3bf6098c42142de8",
+  "active": "c8ddc2ba0bc6bb42",
   "lastOpenFiles": [
+    "Հավտես։ Քննական հարցեր.md",
+    "Students/Կամո Մկրտչյան.md",
     "Untitled _Exchange Programmes.md",
     "000 MIX/Untitled_Answers_of_exchanges.md",
     "Mathematics/Մաթ․ անալիզ/Մաթանալիզ 3(անհատական).md",
-    "Students/Կամո Մկրտչյան.md",
     "Mathematics/MATHEMATICS.md",
     "Finance/Busyness Law/Busyness Law.md",
     "Finance/Finance.md",
@@ -238,7 +239,6 @@
     "Programming/C++, OOP/Classes and Objects.md",
     "Programming/C++, OOP/Object-Oriented Programming.md",
     "Programming/C++, OOP/C++ Uni material.md",
-    "Programming/C++, OOP/CPP 3(անհատական)։ Վիրտուալ ֆունկցիաներ.md",
     "Docs/Pasted image 20250106152920.png",
     "Docs/Pasted image 20250105201545.png",
     "Docs/Pasted image 20250106153009.png",
