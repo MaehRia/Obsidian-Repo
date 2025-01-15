@@ -25,22 +25,10 @@
             "id": "60dc4737406f2fb7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Kanban"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -100,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "4b42814828976366",
@@ -234,15 +221,18 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "60dc4737406f2fb7",
+  "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
+    "Students/Կամո Մկրտչյան.md",
+    "Mathematics/MATHEMATICS.md",
+    "Finance/Busyness Law/Busyness Law.md",
+    "Finance/Finance.md",
+    "Kanban.md",
     "Mathematics/Մաթ․ անալիզ/Մաթանալիզ 3(անհատական).md",
     "Mathematics/Մաթ․ անալիզ/Մաթ․ անալիզ.md",
     "Mathematics/Անալիտիկ երկրաչափություն/Անալիտիկ երկրաչափություն.md",
-    "Mathematics/MATHEMATICS.md",
     "Untitled_2025.md",
     "000 MIX/Untitled_Answers_of_exchanges.md",
-    "Kanban.md",
     "Untitled _Exchange Programmes.md",
     "Mathematics/Անալիտիկ երկրաչափություն/Ուղղի հավասարումը տարածության մեջ.md",
     "Mathematics/Անալիտիկ երկրաչափություն/Ուղղի հավասարումը հարթության վրա։ Կետի հեռավորությունը ուղղից.md",
@@ -251,7 +241,6 @@
     "Mathematics/Անալիտիկ երկրաչափություն/Երեք կետով անցնող հարթության հավասարում.md",
     "Mathematics/Անալիտիկ երկրաչափություն/Բուրգի ծավալը և եռանկյան մակերեսը.md",
     "Mathematics/Անալիտիկ երկրաչափություն/Բազային Երկրաչափություն.md",
-    "Students/Կամո Մկրտչյան.md",
     "Mathematics/Մաթ․ տրամաբանություն/Մաթ․ տրամաբանություն.md",
     "Mathematics/Հավ․ տես/Հավ․ տես.md",
     "Programming/Programming.md",
@@ -260,8 +249,6 @@
     "Programming/C++, OOP/Object-Oriented Programming.md",
     "Programming/C++, OOP/C++ Uni material.md",
     "Programming/C++, OOP/CPP 3(անհատական)։ Վիրտուալ ֆունկցիաներ.md",
-    "Mathematics/Անալիտիկ երկրաչափություն/2․Վեկտորի գաղափարը. Գծային գործողություններ վեկտորների հետ.md",
-    "Languages/English/English.md",
     "Docs/Pasted image 20250106152920.png",
     "Docs/Pasted image 20250105201545.png",
     "Docs/Pasted image 20250106153009.png",
