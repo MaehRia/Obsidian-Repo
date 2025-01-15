@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Հավտես։ Քննական հարցեր.md",
+                "file": "Mathematics/Հավ․ տես/Հավ․ տես․։ Քննական հարցեր.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Հավտես։ Քննական հարցեր"
+              "title": "Հավ․ տես․։ Քննական հարցեր"
             }
           }
         ]
@@ -187,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -213,12 +213,13 @@
   },
   "active": "c8ddc2ba0bc6bb42",
   "lastOpenFiles": [
-    "Հավտես։ Քննական հարցեր.md",
+    "Mathematics/MATHEMATICS.md",
+    "Mathematics/Հավ․ տես/Հավ․ տես.md",
+    "Mathematics/Հավ․ տես/Հավ․ տես․։ Քննական հարցեր.md",
     "Students/Կամո Մկրտչյան.md",
     "Untitled _Exchange Programmes.md",
     "000 MIX/Untitled_Answers_of_exchanges.md",
     "Mathematics/Մաթ․ անալիզ/Մաթանալիզ 3(անհատական).md",
-    "Mathematics/MATHEMATICS.md",
     "Finance/Busyness Law/Busyness Law.md",
     "Finance/Finance.md",
     "Kanban.md",
@@ -233,7 +234,6 @@
     "Mathematics/Անալիտիկ երկրաչափություն/Բուրգի ծավալը և եռանկյան մակերեսը.md",
     "Mathematics/Անալիտիկ երկրաչափություն/Բազային Երկրաչափություն.md",
     "Mathematics/Մաթ․ տրամաբանություն/Մաթ․ տրամաբանություն.md",
-    "Mathematics/Հավ․ տես/Հավ․ տես.md",
     "Programming/Programming.md",
     "Languages/Languages.md",
     "Programming/C++, OOP/Classes and Objects.md",
