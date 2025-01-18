@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8ddc2ba0bc6bb42",
+            "id": "525a273638b2becc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Students/Կամո Մկրտչյան.md",
+                "file": "Լիանա Ավետյան.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Կամո Մկրտչյան"
+              "title": "Լիանա Ավետյան"
             }
           }
         ]
@@ -177,7 +177,7 @@
             }
           },
           {
-            "id": "4fa967b39469b169",
+            "id": "59c6b65793efaa1d",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -187,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -211,12 +211,13 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "4af3b6aa8bcf0822",
+  "active": "525a273638b2becc",
   "lastOpenFiles": [
+    "Students/Կամո Մկրտչյան.md",
+    "Լիանա Ավետյան.md",
     "Mathematics/Հավ․ տես/Հավ․ տես.md",
     "Mathematics/Հավ․ տես/Հավ․ տես․։ Քննական հարցեր.md",
     "Mathematics/MATHEMATICS.md",
-    "Students/Կամո Մկրտչյան.md",
     "Untitled _Exchange Programmes.md",
     "000 MIX/Untitled_Answers_of_exchanges.md",
     "Mathematics/Մաթ․ անալիզ/Մաթանալիզ 3(անհատական).md",
@@ -238,7 +239,6 @@
     "Languages/Languages.md",
     "Programming/C++, OOP/Classes and Objects.md",
     "Programming/C++, OOP/Object-Oriented Programming.md",
-    "Programming/C++, OOP/C++ Uni material.md",
     "Docs/Pasted image 20250106152920.png",
     "Docs/Pasted image 20250105201545.png",
     "Docs/Pasted image 20250106153009.png",
