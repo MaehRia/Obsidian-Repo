@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "525a273638b2becc",
+            "id": "4de40d90620c17f7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "HTML(քննական հարցաշար).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTML(քննական հարցաշար)"
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "4b42814828976366",
@@ -206,17 +211,18 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "525a273638b2becc",
+  "active": "4de40d90620c17f7",
   "lastOpenFiles": [
+    "HTML(քննական հարցաշար).md",
+    "Students/Կամո Մկրտչյան.md",
+    "Students/Students.md",
     "000 MIX/Templates/Daily.md",
     "Mathematics/Մաթ․ տրամաբանություն/Մաթ․ տրամաբանություն.md",
     "Programming/Programming.md",
     "Mathematics/Մաթ․ տրամաբանություն/Մաթ․ տրամաբանություն (անհատական).md",
-    "Students/Students.md",
     "Mathematics/MATHEMATICS.md",
     "Finance/Finance.md",
     "Students/Լիանա Ավետյան.md",
-    "Students/Կամո Մկրտչյան.md",
     "Mathematics/Հավ․ տես/Հավ․ տես.md",
     "Mathematics/Հավ․ տես/Հավ․ տես․։ Քննական հարցեր.md",
     "Untitled _Exchange Programmes.md",
@@ -233,7 +239,6 @@
     "Mathematics/Անալիտիկ երկրաչափություն/Հարթության հավասարումը տարածության մեջ։ Կետի հեռավորությունը հարթությունից.md",
     "Mathematics/Անալիտիկ երկրաչափություն/Երեք կետով անցնող հարթության հավասարում.md",
     "Mathematics/Անալիտիկ երկրաչափություն/Բուրգի ծավալը և եռանկյան մակերեսը.md",
-    "Mathematics/Անալիտիկ երկրաչափություն/Բազային Երկրաչափություն.md",
     "Docs/Pasted image 20250106152920.png",
     "Docs/Pasted image 20250105201545.png",
     "Docs/Pasted image 20250106153009.png",
