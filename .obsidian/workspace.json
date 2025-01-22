@@ -11,12 +11,22 @@
             "id": "55175ac938c6c8f4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "kanban",
               "state": {
-                "file": "Pasted image 20250120022630.png"
+                "file": "Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250120022630"
+              "icon": "lucide-trello",
+              "title": "Kanban"
             }
           }
         ]
@@ -75,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "4b42814828976366",
@@ -208,15 +219,15 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "4af3b6aa8bcf0822",
+  "active": "55175ac938c6c8f4",
   "lastOpenFiles": [
+    "Pasted image 20250120022630.png",
     "Students/Կամո Մկրտչյան.md",
     "0-02-0b-cc65c82e7ee3fcad9144af30e42dfd5e8597241c50fa4f788abe0f6d8e530e2d_c955d8b7299c6019.jpg",
     "0-02-0b-749d5184b1db071bd2ea9f349a9f4d2f301095ba89ae53473115f7874f3c59cf_a5b2f5d6a6caf1bc.jpg",
     "0-02-05-1c0aef5e767bfc549edb63ca9e56d2a293594e0c694333310108c2e70513a9d2_68550baaaa571b02.jpg",
     "000 MIX/Tips.md",
     "Programming/HTML/HTML(քննական հարցաշար).md",
-    "Pasted image 20250120022630.png",
     "Untitled _Exchange Programmes.md",
     "Untitled_2025.md",
     "Students/Լիանա Ավետյան.md",
