@@ -8,25 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55175ac938c6c8f4",
+            "id": "4ee14ecf8b07acbf",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Բիզնես իրավունք (քննական հարցաշար).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban"
+              "icon": "lucide-file",
+              "title": "Բիզնես իրավունք (քննական հարցաշար)"
             }
           }
         ]
@@ -219,8 +211,10 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "55175ac938c6c8f4",
+  "active": "4ee14ecf8b07acbf",
   "lastOpenFiles": [
+    "Բիզնես իրավունք (քննական հարցաշար).md",
+    "Kanban.md",
     "Pasted image 20250120022630.png",
     "Students/Կամո Մկրտչյան.md",
     "0-02-0b-cc65c82e7ee3fcad9144af30e42dfd5e8597241c50fa4f788abe0f6d8e530e2d_c955d8b7299c6019.jpg",
@@ -244,7 +238,6 @@
     "000 MIX/Untitled_Answers_of_exchanges.md",
     "Mathematics/Մաթ․ անալիզ/Մաթանալիզ 3(անհատական).md",
     "Finance/Busyness Law/Busyness Law.md",
-    "Kanban.md",
     "Mathematics/Մաթ․ անալիզ/Մաթ․ անալիզ.md",
     "Mathematics/Անալիտիկ երկրաչափություն/Անալիտիկ երկրաչափություն.md",
     "Mathematics/Անալիտիկ երկրաչափություն/Ուղղի հավասարումը տարածության մեջ.md",
