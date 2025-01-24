@@ -1,5 +1,11 @@
 # HTML Overview
 
+
+> [!summary] 
+> [[HTML Basics]]
+> 
+> [[HTML(քննական հարցաշար)]] 
+
 ### What is HTML?
 
 - HTML stands for Hyper Text Markup Language
@@ -22,4 +28,3 @@
 type: folder_brief_live
 ```
  
-[[HTML Basics]]
