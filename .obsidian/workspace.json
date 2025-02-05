@@ -22,18 +22,21 @@
             }
           },
           {
-            "id": "9c067ee099d08c24",
+            "id": "738bbd11adba3591",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Students/Կամո Մկրտչյան.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Կամո Մկրտչյան"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -223,8 +227,9 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "4ee14ecf8b07acbf",
+  "active": "738bbd11adba3591",
   "lastOpenFiles": [
+    "Untitled _Exchange Programmes.md",
     "Programming/Python/Python Course for Beginners + ML.md",
     "Programming/Machine Learning.md",
     "Languages/Languages.md",
@@ -262,7 +267,6 @@
     "Finance/Ֆինանսական գրագիտության զարգացում/1․ Ներածություն + Ֆին․ համակարգը ՀՀ-ում.md",
     "Finance/Ֆինանսական գրագիտության զարգացում/Ֆինանսական գրագիտության զարգացում.md",
     "Docs/C++ Workbook.pdf",
-    "Programming/HTML/HTML.md",
     "Students",
     "Uni assignments/Անհատականներ",
     "Uni assignments",
