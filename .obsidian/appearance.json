@@ -7,5 +7,6 @@
   "baseFontSize": 20,
   "monospaceFontFamily": "Cascadia Code",
   "baseFontSizeAction": true,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "showRibbon": true
 }
