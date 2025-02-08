@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5,
-    "collapsed": true
+    "width": 436.5
   },
   "right": {
     "id": "4b42814828976366",
@@ -178,7 +177,7 @@
             }
           },
           {
-            "id": "8e0bd7a4a19d170b",
+            "id": "7dabf02918cfad83",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -212,7 +211,7 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "738bbd11adba3591",
+  "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
     "Students/Կամո Մկրտչյան.md",
     "Students/Լիանա Ավետյան.md",
