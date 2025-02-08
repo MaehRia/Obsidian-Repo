@@ -1,9 +1,7 @@
-# head 1
-## head 2
-### head 3
-###### head 6
 
-**This is bold text**
+
+<b>Bold text</b>
+**This is also bold text**
 
 ***bold and italic***
 ___bold and italic___
@@ -23,14 +21,13 @@ _Also italic one_
 
 *\*This line will be italic and show the asterisks*\*
 
+<font style="color:maroon">Maroon text</font>
+
 >[!info]
 -
 +
 *
 
-1.
-2.
-3.
 
 - [x] Hotkeys
 - [x] templates
@@ -59,19 +56,12 @@ This is a simple footnote[^1].
 [^2]: Add 2 spaces at the start of each new line. This lets you write footnotes that span multiple lines. 
 [^note]: Named footnotes still appear as numbers, but can make it easier to identify and link references.
 
-| First name | Last name |     |
-| ---------- | --------- | --- |
-| Max        | Planck    |     |
-| Marie      | Curie     |     |
 
  First name | Last name 
  ---------- | ----------
 Max         |Planck     
 Marie       |Curie      
 
-| Left-aligned text | Center-aligned text | Right-aligned text |
-| :---------------- | :-----------------: | -----------------: |
-| Content           |       Content       |            Content |
 
 ```mermaid
 graph TD
@@ -89,8 +79,6 @@ class A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z internal-link;
 
 \-Isaac Newton
 
-> [!note] 
->  
 
 -------
 $$
@@ -117,6 +105,7 @@ Some hidden toggle content!
 ```
 
 $$\boxed{f(x)-P_n(x)\leq\frac{(b-a)^a}{2^n2^{n-1}(n+1)!}f^{n+1}(\xi)}$$
+
 # A
 # B
 # C
