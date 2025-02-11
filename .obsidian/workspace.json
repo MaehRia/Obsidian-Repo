@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Students/Լիանա Ավետյան.md",
+                "file": "Students/Կամո Մկրտչյան.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Լիանա Ավետյան"
+              "title": "Կամո Մկրտչյան"
             }
           }
         ]
@@ -212,10 +212,10 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "738bbd11adba3591",
+  "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
-    "000 MIX/Tips.md",
     "Students/Լիանա Ավետյան.md",
+    "000 MIX/Tips.md",
     "Students/Կամո Մկրտչյան.md",
     "Untitled _Exchange Programmes.md",
     "Programming/Python/Python Course for Beginners + ML.md",
