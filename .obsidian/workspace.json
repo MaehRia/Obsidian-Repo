@@ -35,7 +35,8 @@
               "title": "Love AI"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,11 +227,11 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "4af3b6aa8bcf0822",
+  "active": "e45e8fb8fc5093ce",
   "lastOpenFiles": [
+    "Students/Կամո Մկրտչյան.md",
     "Students/Լիանա Ավետյան.md",
     "Love AI.md",
-    "Students/Կամո Մկրտչյան.md",
     "Kanban.md",
     "000 MIX/Tips.md",
     "Untitled _Exchange Programmes.md",
