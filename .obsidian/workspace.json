@@ -35,8 +35,7 @@
               "title": "Սցենար"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,11 +226,11 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "e45e8fb8fc5093ce",
+  "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
+    "Սցենար.md",
     "Students/Կամո Մկրտչյան.md",
     "Students/Լիանա Ավետյան.md",
-    "Սցենար.md",
     "Kanban.md",
     "000 MIX/Tips.md",
     "Untitled _Exchange Programmes.md",
