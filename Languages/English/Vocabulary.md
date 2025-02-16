@@ -1,21 +1,21 @@
 > [!info] Prefixes and Suffixes
 > Prefixes:
-> de- (անջատում կամ հակառակ գործողություն՝ decode, decrease)
-> dis- (հակառակում, կիսում՝ disagree, disappear)
-> ex- (անջատում կամ նախկին՝ exclaim, exclude, ex-president)
-> il- (ժխտում, որը կիրառվում է l-ով սկսվող բառերի հետ՝ illegal)
-> im- (ժխտում կամ բացակայություն, կիրառվում է m և p տառերի հետ՝ impossible)
-> in- (ներառում կամ ժխտում՝ involve, independent)
-> mis- (սխալ՝ misunderstanding)
-> non- (բացակայություն, գրվում է գծիկով և առանց՝ non-defence)
-> pre- (ցույց է տալիս սկզբնականին նախորդող երևույթ՝ prehistory)
-> pro- (ուժգնություն՝ proactive, proactive, proclaim)
-> re- (կրկնակի կատարում, վերսկսում՝ revolution)
-> un- (կատարածի չեղարկում կամ ժխտում՝ undo, unequal)
-> anti- (ժխտում, հակառակում՝ antisocial)
-> under- (թերակատարում՝ underestimate)
+> - de- (անջատում կամ հակառակ գործողություն՝ decode, decrease)
+> - dis- (հակառակում, կիսում՝ disagree, disappear)
+> - ex- (անջատում կամ նախկին՝ exclaim, exclude, ex-president)
+> - il- (ժխտում, որը կիրառվում է l-ով սկսվող բառերի հետ՝ illegal)
+> - im- (ժխտում կամ բացակայություն, կիրառվում է m և p տառերի հետ՝ impossible)
+> - in- (ներառում կամ ժխտում՝ involve, independent)
+> - mis- (սխալ՝ misunderstanding)
+> - non- (բացակայություն, գրվում է գծիկով և առանց՝ non-defence)
+> - pre- (ցույց է տալիս սկզբնականին նախորդող երևույթ՝ prehistory)
+> - pro- (ուժգնություն՝ proactive, proactive, proclaim)
+> - re- (կրկնակի կատարում, վերսկսում՝ revolution)
+> - un- (կատարածի չեղարկում կամ ժխտում՝ undo, unequal)
+> - anti- (ժխտում, հակառակում՝ antisocial)
+> - under- (թերակատարում՝ underestimate)
 > Suffixe: 
-> -less (բացակայություն՝ cardless, flowless)
+> - -less (բացակայություն՝ cardless, flowless)
 
 # A
 
@@ -146,6 +146,11 @@ recuse
 ?
 1.  declare oneself unable to participate in a case
 2. (legal removal) remove a judge from a case for potential bias
+
+resilience
+?
+the capacity to withstand or to recover quickly from difficulties; toughness.
+
 # S
 
 second guess yourself
