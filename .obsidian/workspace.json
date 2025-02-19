@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Կամո Մկրտչյան"
             }
+          },
+          {
+            "id": "86f4ec9de8be6683",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,7 +225,7 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "f7b4872b26d15059",
+  "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
     "Students/Լիանա Ավետյան.md",
     "Students/Կամո Մկրտչյան.md",
