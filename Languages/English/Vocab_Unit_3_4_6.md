@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/cel9iwxf#nScatDLbFhapTVcjRD1D2i21BB8W4xXTRWUmmbmNNR4
+share_updated: 2025-02-24T01:38:18+04:00
+---
 
 >[!info]
 > - It is set to/it is expected
