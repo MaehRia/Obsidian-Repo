@@ -25,10 +25,14 @@
             "id": "247cd651761184fb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Graphic Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graphic Design"
             }
           }
         ],
@@ -89,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5,
-    "collapsed": true
+    "width": 436.5
   },
   "right": {
     "id": "4b42814828976366",
@@ -223,7 +226,7 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "247cd651761184fb",
+  "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
     "Languages/English/Vocab_Unit_3_4_6.md",
     "Untitled.md",
