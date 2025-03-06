@@ -29,7 +29,7 @@ _Also italic one_
 *
 
 
-- [x] Hotkeys
+- [ ] Hotkeys
 - [x] templates
 - [ ] 3 plugins
 - [x] core plugins
