@@ -29,9 +29,9 @@
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": -1456.2505696474166,
-                  "y": -497.0453612394795,
-                  "zoom": -1.3258569932012765
+                  "x": -973.732258218501,
+                  "y": -450.93403968614496,
+                  "zoom": -1.4626321988308566
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -244,7 +244,7 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "4af3b6aa8bcf0822",
+  "active": "f5585c05723094a5",
   "lastOpenFiles": [
     "ANQA.md",
     "Untitled.canvas",
