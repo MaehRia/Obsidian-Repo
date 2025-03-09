@@ -8,7 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bfde5881c5ce312",
+            "id": "f5585c05723094a5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -2045.9232475615488,
+                  "y": 6.898883336730285,
+                  "zoom": -1.0866268518278608
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "3d10af7c47714339",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,23 +36,6 @@
               },
               "icon": "lucide-file",
               "title": "Լիանա Ավետյան"
-            }
-          },
-          {
-            "id": "f5585c05723094a5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -1340.1941989705015,
-                  "y": -350.276179212902,
-                  "zoom": -0.8715955206814027
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
             }
           }
         ]
@@ -229,10 +229,10 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "7bfde5881c5ce312",
+  "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Students/Լիանա Ավետյան.md",
+    "Untitled.canvas",
     "Students/Կամո Մկրտչյան.md",
     "ANQA.md",
     "Untitled 1.md",
