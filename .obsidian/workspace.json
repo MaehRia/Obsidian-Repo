@@ -11,17 +11,14 @@
             "id": "f5585c05723094a5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Secure/2025.canvas",
-                "viewState": {
-                  "x": -587.7820972295111,
-                  "y": 99.33558810678048,
-                  "zoom": -0.7597519707823437
-                }
+                "file": "ANQA.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "2025"
+              "icon": "lucide-file",
+              "title": "ANQA"
             }
           }
         ]
@@ -217,10 +214,10 @@
   },
   "active": "f5585c05723094a5",
   "lastOpenFiles": [
+    "Secure/2025.canvas",
     "Kanban.md",
     "Docs/Pasted image 20250202120707.png",
     "Docs/Pasted image 20250201182156.png",
-    "Secure/2025.canvas",
     "Students/Լիանա Ավետյան.md",
     "Students/Կամո Մկրտչյան.md",
     "ANQA.md",
