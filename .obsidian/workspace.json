@@ -11,10 +11,17 @@
             "id": "76712339726a26d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Secure/2025.canvas",
+                "viewState": {
+                  "x": 1896.2871544660645,
+                  "y": -19.862539277087176,
+                  "zoom": -0.4426735842247847
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "2025"
             }
           }
         ]
@@ -208,11 +215,11 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "4af3b6aa8bcf0822",
+  "active": "76712339726a26d5",
   "lastOpenFiles": [
+    "Secure/2025.md",
     "Students/Լիանա Ավետյան.md",
     "Students/Կամո Մկրտչյան.md",
-    "Secure/2025.md",
     "Students/Students.md",
     "ANQA.md",
     "Secure/2025.canvas",
