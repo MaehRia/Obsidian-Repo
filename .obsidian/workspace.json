@@ -11,14 +11,17 @@
             "id": "76712339726a26d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Students/Կամո Մկրտչյան.md",
-                "mode": "source",
-                "source": false
+                "file": "Secure/2025.canvas",
+                "viewState": {
+                  "x": 602.8203954512607,
+                  "y": -409.5791514885287,
+                  "zoom": -1.596989103713741
+                }
               },
-              "icon": "lucide-file",
-              "title": "Կամո Մկրտչյան"
+              "icon": "lucide-layout-dashboard",
+              "title": "2025"
             }
           }
         ]
@@ -78,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 436.5,
+    "collapsed": true
   },
   "right": {
     "id": "4b42814828976366",
@@ -211,12 +215,12 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "4af3b6aa8bcf0822",
+  "active": "76712339726a26d5",
   "lastOpenFiles": [
+    "Students/Կամո Մկրտչյան.md",
     "Secure/2025.canvas",
     "Secure/2025.md",
     "Students/Լիանա Ավետյան.md",
-    "Students/Կամո Մկրտչյան.md",
     "Students/Students.md",
     "ANQA.md",
     "Kanban.md",
