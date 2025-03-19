@@ -15,9 +15,9 @@
               "state": {
                 "file": "Secure/2025.canvas",
                 "viewState": {
-                  "x": 913.1094889984909,
-                  "y": -376.78814176174734,
-                  "zoom": -1.5757726960410423
+                  "x": 939.5474682029983,
+                  "y": -425.37177081048236,
+                  "zoom": -1.395969781103705
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -215,7 +215,7 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "76712339726a26d5",
+  "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
     "Secure/2025.md",
     "Students/Լիանա Ավետյան.md",
