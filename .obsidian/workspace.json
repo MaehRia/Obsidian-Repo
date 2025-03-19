@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5,
-    "collapsed": true
+    "width": 436.5
   },
   "right": {
     "id": "4b42814828976366",
@@ -212,7 +211,7 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "76712339726a26d5",
+  "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
     "Secure/2025.canvas",
     "Secure/2025.md",
