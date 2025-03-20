@@ -11,14 +11,17 @@
             "id": "76712339726a26d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Students/Լիանա Ավետյան.md",
-                "mode": "source",
-                "source": false
+                "file": "Secure/2025.canvas",
+                "viewState": {
+                  "x": 785.9097394710641,
+                  "y": -487.1851323271645,
+                  "zoom": -1.7302981896543033
+                }
               },
-              "icon": "lucide-file",
-              "title": "Լիանա Ավետյան"
+              "icon": "lucide-layout-dashboard",
+              "title": "2025"
             }
           }
         ]
@@ -78,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 436.5,
+    "collapsed": true
   },
   "right": {
     "id": "4b42814828976366",
@@ -213,10 +217,10 @@
   },
   "active": "76712339726a26d5",
   "lastOpenFiles": [
+    "Students/Լիանա Ավետյան.md",
     "Students/Կամո Մկրտչյան.md",
     "Secure/2025.canvas",
     "Secure/2025.md",
-    "Students/Լիանա Ավետյան.md",
     "Students/Students.md",
     "ANQA.md",
     "Kanban.md",
