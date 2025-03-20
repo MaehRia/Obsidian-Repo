@@ -10,16 +10,18 @@
           {
             "id": "76712339726a26d5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Secure/2025.canvas",
                 "viewState": {
-                  "x": -156.1882471873543,
-                  "y": -182.12640971093234,
-                  "zoom": -1.3875629926551394
+                  "x": 781.6823534182365,
+                  "y": -459.3774911909346,
+                  "zoom": -1.89964562560565
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "2025"
             }
@@ -38,8 +40,7 @@
               "title": "MatLab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,10 +230,10 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "fe735d0f2955b474",
+  "active": "76712339726a26d5",
   "lastOpenFiles": [
-    "Secure/2025.canvas",
     "MatLab.md",
+    "Secure/2025.canvas",
     "Students/Լիանա Ավետյան.md",
     "Students/Կամո Մկրտչյան.md",
     "Secure/2025.md",
