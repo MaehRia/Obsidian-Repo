@@ -15,9 +15,9 @@
               "state": {
                 "file": "Secure/2025.canvas",
                 "viewState": {
-                  "x": -175.89870369226438,
-                  "y": -65.49014161202133,
-                  "zoom": -1.1708152636715776
+                  "x": 230.6934234287784,
+                  "y": 221.78778728452698,
+                  "zoom": -1.3875629926551394
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "4b42814828976366",
