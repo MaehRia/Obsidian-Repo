@@ -2,7 +2,7 @@
 media_link: https://www.youtube.com/watch?v=_uQrJ0TkZlc
 ---
 
-This is a video course made by Mosh_Hamadani, about  basics of [[Python]].
+This is a video course made by Mosh_Hamadani, about  basics of [[Python_Intro]].
 
 [21:00](https://www.youtube.com/watch?t=1260&v=_uQrJ0TkZlc) Receiving Input:
 

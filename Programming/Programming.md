@@ -3,17 +3,21 @@
 ```ccard
 type: folder_brief_live
 ```
- 
-[[C++, OOP]]
-
-[[HTML]]
-
-[[Python]]
 
 
+> [!summary] 
+>  [[C++, OOP]]
+>  
+>  [[HTML]]
+>  
+>  [[Python_Intro]]
+>  
+>  [[Machine Learning]]
+>  
+>  [[Pascal Naming Convention]]
+>  
+>  [[TumoLabs]]
 
-[[Machine Learning]]
 
-[[Pascal Naming Convention]]
 
-[[TumoLabs]]
+

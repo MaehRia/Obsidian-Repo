@@ -11,7 +11,7 @@ When studying in TumoLabs, I was given a study material, which I should've compl
 
 So, here is training material:
 
-[[Python]]:
+[[Python_Intro]]:
 
 1st station:
 1. [Python Course for Beginners](https://youtu.be/_uQrJ0TkZlc?si=S_8KPJxU1JtTDH3P) 

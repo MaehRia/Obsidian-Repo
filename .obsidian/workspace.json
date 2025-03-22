@@ -27,59 +27,58 @@
             }
           },
           {
-            "id": "b7442638fbb27149",
+            "id": "8275e5ed3caeca25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni_MatLab.md",
+                "file": "Differential equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uni_MatLab"
+              "title": "Differential equations"
             }
           },
           {
-            "id": "1e32767f43f164a8",
+            "id": "ad8677baa1ec3184",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni_Web.md",
+                "file": "Applied Statistics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uni_Web"
+              "title": "Applied Statistics"
             }
           },
           {
-            "id": "995cfd8e6bff1109",
+            "id": "ffffbe1c57629612",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Information and coding theory.md",
-                "mode": "source",
-                "source": false
+                "file": "Secure/2025.canvas",
+                "viewState": {
+                  "x": 650,
+                  "y": -735.5,
+                  "zoom": -1.8769122938444698
+                }
               },
-              "icon": "lucide-file",
-              "title": "Information and coding theory"
+              "icon": "lucide-layout-dashboard",
+              "title": "2025"
             }
           },
           {
-            "id": "fe735d0f2955b474",
+            "id": "23c0cb0ae4796798",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uni_MatLab.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Uni_MatLab"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -95,6 +94,7 @@
       {
         "id": "bab13bf7d8b44a14",
         "type": "tabs",
+        "dimension": 65.86021505376344,
         "children": [
           {
             "id": "8a9d3949cd5bcd5d",
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#German_A1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,10 +137,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "07472b1298cf467c",
+        "type": "tabs",
+        "dimension": 34.13978494623656,
+        "children": [
+          {
+            "id": "e0cd57598b1a1e36",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 312.5
   },
   "right": {
     "id": "4b42814828976366",
@@ -239,7 +256,7 @@
             }
           },
           {
-            "id": "f6995f57d653fde2",
+            "id": "73315a5ae801a22e",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -249,7 +266,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -273,19 +290,29 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "995cfd8e6bff1109",
+  "active": "ffffbe1c57629612",
   "lastOpenFiles": [
-    "Uni_Web.md",
+    "Secure/Secure.md",
+    "Programming/Programming.md",
+    "Students/Students.md",
+    "Graphic Design.md",
+    "English_Uni.md",
+    "Python_Uni.md",
+    "Web_Uni.md",
+    "Programming/Python_Intro/Python_Intro.md",
+    "Algorithms and Data Structures.md",
+    "Applied Statistics.md",
+    "Algebra.md",
+    "Differential equations.md",
+    "MatLab.md",
+    "Secure/Kanban.md",
+    "Programming/HTML/HTML.md",
     "Information and coding theory.md",
-    "Uni_MatLab.md",
-    "Uni_English.md",
     "Secure/2025.canvas",
     "Students/Լիանա Ավետյան.md",
     "Students/Կամո Մկրտչյան.md",
     "Secure/2025.md",
-    "Students/Students.md",
     "ANQA.md",
-    "Kanban.md",
     "Docs/Pasted image 20250202120707.png",
     "Docs/Pasted image 20250201182156.png",
     "Untitled 1.md",
@@ -294,31 +321,21 @@
     "Pasted image 20250223141245.png",
     "000 MIX/Tips.md",
     "Languages/English/Vocab_Unit_3_4_6.md",
-    "Graphic Design.md",
     "Languages/Languages.md",
     "Secure/AI.md",
     "Secure/Exchange Programmes.md",
     "Secure",
-    "Programming/Programming.md",
-    "Mathematics/MATHEMATICS.md",
     "photo_2025-02-15_15-08-34.jpg",
     "0-02-0b-70fe238c182f993c29ce1498581d6ddf6a4b8c60f80cb2b1d417a95b352e8172_69bf0e25889435d9.jpg",
-    "Untitled Kanban.md",
     "Pasted image 20250201173558.png",
     "photo_2025-02-15_15-08-19.jpg",
-    "Languages/English/Vocab_IT.md",
-    "Languages/English/Vocab_Unit_1_2.md",
-    "Languages/English/Vocabulary.md",
-    "Սցենար.md",
-    "Programming/Python/Python Course for Beginners + ML.md",
-    "Programming/Machine Learning.md",
     "Docs/Screenshot 2024-11-30 210608.png",
     "Docs/Raymond_Murphy_English_Grammar_in_Use_Supplementary_Exercises_5th.pdf",
     "Docs/C++ Workbook.pdf",
     "Students",
     "Uni assignments/Անհատականներ",
     "Uni assignments",
-    "Programming/Python/spredsheet1.xlsx",
+    "Programming/Python_Intro/spredsheet1.xlsx",
     "~$Spredsheet.xlsx",
     "~$spredsheet1.xlsx",
     "spredsheet1.xlsx"
