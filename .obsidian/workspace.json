@@ -6,7 +6,7 @@
       {
         "id": "0fcb294af3eb6434",
         "type": "tabs",
-        "dimension": 46.38069705093834,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "76712339726a26d5",
@@ -26,38 +26,23 @@
               "icon": "lucide-layout-dashboard",
               "title": "2025"
             }
-          }
-        ]
-      },
-      {
-        "id": "0ac3ff219d66e94e",
-        "type": "tabs",
-        "dimension": 53.61930294906166,
-        "children": [
+          },
           {
-            "id": "f91abd35311928a5",
+            "id": "a46dd18273a4bb04",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Secure/Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Students/Կամո Մկրտչյան.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban"
+              "icon": "lucide-file",
+              "title": "Կամո Մկրտչյան"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secure/2025.canvas",
+                "file": "Students/Կամո Մկրտչյան.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025"
+              "title": "Backlinks for Կամո Մկրտչյան"
             }
           },
           {
@@ -150,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secure/2025.canvas",
+                "file": "Students/Կամո Մկրտչյան.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025"
+              "title": "Outgoing links from Կամո Մկրտչյան"
             }
           },
           {
@@ -247,10 +232,10 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "76712339726a26d5",
+  "active": "a46dd18273a4bb04",
   "lastOpenFiles": [
-    "Secure/Kanban.md",
     "Secure/2025.canvas",
+    "Secure/Kanban.md",
     "Secure/Secure.md",
     "Students/Students.md",
     "Programming/Programming.md",
