@@ -16,9 +16,9 @@
               "state": {
                 "file": "Secure/2025.canvas",
                 "viewState": {
-                  "x": 621.9701385346929,
-                  "y": -837.6146514530163,
-                  "zoom": -1.929666030652295
+                  "x": -463.867079849763,
+                  "y": -1546.0480149098062,
+                  "zoom": -0.7184922475437062
                 }
               },
               "pinned": true,
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "4b42814828976366",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secure/2025.canvas",
+                "file": "Secure/2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secure/2025.canvas",
+                "file": "Secure/2025.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
@@ -195,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
