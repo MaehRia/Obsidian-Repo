@@ -6,6 +6,7 @@
       {
         "id": "0fcb294af3eb6434",
         "type": "tabs",
+        "dimension": 46.38069705093834,
         "children": [
           {
             "id": "76712339726a26d5",
@@ -16,14 +17,44 @@
               "state": {
                 "file": "Secure/2025.canvas",
                 "viewState": {
-                  "x": -463.867079849763,
-                  "y": -1546.0480149098062,
-                  "zoom": -0.7184922475437062
+                  "x": 83.38429680723053,
+                  "y": -1639.9481244652927,
+                  "zoom": -0.3909223556693423
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "2025"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0ac3ff219d66e94e",
+        "type": "tabs",
+        "dimension": 53.61930294906166,
+        "children": [
+          {
+            "id": "f91abd35311928a5",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Secure/Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban"
             }
           }
         ]
@@ -46,7 +77,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -100,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secure/2025.md",
+                "file": "Secure/2025.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secure/2025.md",
+                "file": "Secure/2025.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
@@ -218,22 +249,23 @@
   },
   "active": "76712339726a26d5",
   "lastOpenFiles": [
+    "Secure/Kanban.md",
+    "Secure/2025.canvas",
+    "Secure/Secure.md",
+    "Students/Students.md",
     "Programming/Programming.md",
     "Programming/Machine learning.md",
     "Programming/Python/Python.md",
     "Programming/Python/Python Course for Beginners + ML.md",
     "Programming/Python/Python_Uni.md",
-    "Secure/Secure.md",
     "Languages/Languages.md",
     "Languages/English/English.md",
     "Mathematics/MATHEMATICS.md",
-    "Students/Students.md",
     "Programming/TumoLabs.md",
     "Programming/Machine Learning.md",
     "Programming/HTML/HTML.md",
     "Programming/C++, OOP/C++, OOP.md",
     "Mathematics/Մաթ․ տրամաբանություն/Մաթ․ տրամաբանություն.md",
-    "Secure/2025.canvas",
     "Finance/Finance.md",
     "Finance/Busyness Law/Բիզնես իրավունք (նախաբան).md",
     "Finance/Busyness Law/Busyness Law.md",
@@ -243,8 +275,6 @@
     "Mathematics/Մաթ․ անալիզ/Մաթ․ անալիզ.md",
     "Languages/German/German A1 Vocab.md",
     "Languages/German/Grammatik Aktiv.md",
-    "Languages/English/Vocabulary.md",
-    "Languages/German/German.md",
     "Docs/Pasted image 20250202120707.png",
     "Docs/Pasted image 20250201182156.png",
     "Pasted image 20250304213239.png",
