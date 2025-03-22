@@ -11,7 +11,7 @@ When studying in TumoLabs, I was given a study material, which I should've compl
 
 So, here is training material:
 
-[[Python_Intro]]:
+[[Python]]:
 
 1st station:
 1. [Python Course for Beginners](https://youtu.be/_uQrJ0TkZlc?si=S_8KPJxU1JtTDH3P) 
@@ -22,7 +22,7 @@ Stopping at Lesson 12 is perfect for the learning outcomes you’ll need before 
 At this level, Lesson 8 is unnecessary as it will be covered later in Learning Station 2. If you want to get a head start on the next learning station, though, feel free to check out Lesson 8.
 
 ******
-[[Machine Learning]]:
+[[Machine learning]]:
 
 1st station:
 1. [Machine Learning | An Introduction](https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0#d3ea)

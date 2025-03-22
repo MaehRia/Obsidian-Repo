@@ -2,9 +2,9 @@
 
 
 > [!summary] 
-> [[HTML Basics]]
-> 
-> [[HTML(քննական հարցաշար)]] 
+
+> 1. [[HTML Basics]]
+> 2. [[HTML(քննական հարցաշար)]] 
 
 ### What is HTML?
 

@@ -2,7 +2,7 @@
 media_link: https://www.youtube.com/watch?v=_uQrJ0TkZlc
 ---
 
-This is a video course made by Mosh_Hamadani, about  basics of [[Python_Intro]].
+This is a video course made by Mosh_Hamadani, about  basics of [[Python]].
 
 [21:00](https://www.youtube.com/watch?t=1260&v=_uQrJ0TkZlc) Receiving Input:
 
@@ -553,7 +553,7 @@ def process_workbook(filename):
 ```
 
 ![[Spredsheet.xlsx]]![[spredsheet1.xlsx]]
-[4:11:00](https://www.youtube.com/watch?t=15060&v=_uQrJ0TkZlc) [[Machine Learning]]:
+[4:11:00](https://www.youtube.com/watch?t=15060&v=_uQrJ0TkZlc) [[Machine learning]]:
 
 Imagine a situation, where it is given a picture and the main goal is to identify whether there is cat or dog on the picture. ML is a technique for solving that kind of problems, so here is how it works: we build a module (or an engine), and give it lots of data, in this case thousands of pictures where cats and dogs are depicted. Our module will then find and read patterns in the input data. After analyzing that it will determine whether there is cat or dog by itself. 
 
