@@ -4,6 +4,9 @@
 type: folder_brief_live
 ```
 
+> [!example] 
+>  
+
 [[Finance]]
 	[[Busyness Law]]
 		[[Սահմանափակ պատասխանատվությամբ ընկերությունների մասին]]

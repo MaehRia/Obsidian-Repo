@@ -58,17 +58,14 @@
             "id": "ffffbe1c57629612",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Secure/2025.canvas",
-                "viewState": {
-                  "x": 650,
-                  "y": -735.5,
-                  "zoom": -1.8769122938444698
-                }
+                "file": "Finance/Finance.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "2025"
+              "icon": "lucide-file",
+              "title": "Finance"
             }
           },
           {
@@ -256,7 +253,7 @@
             }
           },
           {
-            "id": "73315a5ae801a22e",
+            "id": "56d25b4374c7fcd4",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -270,8 +267,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
-    "collapsed": true
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,8 +286,10 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "ffffbe1c57629612",
+  "active": "56d25b4374c7fcd4",
   "lastOpenFiles": [
+    "000 MIX/Templates/Daily.md",
+    "Secure/2025.canvas",
     "Secure/Secure.md",
     "Programming/Programming.md",
     "Students/Students.md",
@@ -308,7 +306,6 @@
     "Secure/Kanban.md",
     "Programming/HTML/HTML.md",
     "Information and coding theory.md",
-    "Secure/2025.canvas",
     "Students/Լիանա Ավետյան.md",
     "Students/Կամո Մկրտչյան.md",
     "Secure/2025.md",
@@ -323,7 +320,6 @@
     "Languages/English/Vocab_Unit_3_4_6.md",
     "Languages/Languages.md",
     "Secure/AI.md",
-    "Secure/Exchange Programmes.md",
     "Secure",
     "photo_2025-02-15_15-08-34.jpg",
     "0-02-0b-70fe238c182f993c29ce1498581d6ddf6a4b8c60f80cb2b1d417a95b352e8172_69bf0e25889435d9.jpg",
