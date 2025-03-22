@@ -17,9 +17,9 @@
               "state": {
                 "file": "Secure/2025.canvas",
                 "viewState": {
-                  "x": 83.38429680723053,
-                  "y": -1639.9481244652927,
-                  "zoom": -0.3909223556693423
+                  "x": 366.2453407914408,
+                  "y": -681.1522791241405,
+                  "zoom": -1.3471506743134085
                 }
               },
               "pinned": true,
@@ -28,7 +28,7 @@
             }
           },
           {
-            "id": "a46dd18273a4bb04",
+            "id": "8cc2e598810c96e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "4b42814828976366",
@@ -232,11 +231,11 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "a46dd18273a4bb04",
+  "active": "8cc2e598810c96e0",
   "lastOpenFiles": [
-    "Students/Կամո Մկրտչյան.md",
-    "Students/Լիանա Ավետյան.md",
     "Secure/2025.canvas",
+    "Students/Լիանա Ավետյան.md",
+    "Students/Կամո Մկրտչյան.md",
     "Secure/Kanban.md",
     "Secure/Secure.md",
     "Students/Students.md",
@@ -260,7 +259,6 @@
     "Mathematics/Անալիտիկ երկրաչափություն/Բազային Երկրաչափություն.md",
     "Mathematics/Հավ․ տես/Հավ․ տես.md",
     "Mathematics/Մաթ․ անալիզ/Մաթ․ անալիզ.md",
-    "Languages/German/German A1 Vocab.md",
     "Docs/Pasted image 20250202120707.png",
     "Docs/Pasted image 20250201182156.png",
     "Pasted image 20250304213239.png",
