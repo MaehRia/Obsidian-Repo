@@ -6,7 +6,6 @@
       {
         "id": "0fcb294af3eb6434",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "76712339726a26d5",
@@ -17,9 +16,9 @@
               "state": {
                 "file": "Secure/2025.canvas",
                 "viewState": {
-                  "x": 1.4708177903289412,
-                  "y": -1812.4151557922817,
-                  "zoom": 0.33451259647330384
+                  "x": 166.5130403398017,
+                  "y": -1665.7257037578706,
+                  "zoom": 0.1324999220407455
                 }
               },
               "pinned": true,
@@ -32,14 +31,25 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
                 "file": "Secure/Kanban.md",
-                "mode": "source",
-                "source": false
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
               "pinned": true,
-              "icon": "lucide-file",
+              "icon": "lucide-trello",
               "title": "Kanban"
             }
           }
@@ -101,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "4b42814828976366",
@@ -210,7 +219,8 @@
               "title": "Markdown-Autocomplete"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -234,7 +244,7 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "319f50131af70c37",
+  "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
     "Secure/2025.canvas",
     "Secure/Kanban.md",
