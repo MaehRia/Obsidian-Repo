@@ -67,7 +67,8 @@
               "title": "AI"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -258,10 +259,10 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "76712339726a26d5",
+  "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
-    "Secure/AI.md",
     "Secure/2025.canvas",
+    "Secure/AI.md",
     "Secure/Kanban.md",
     "Students/Լիանա Ավետյան.md",
     "Languages/English/Vocabulary.md",
@@ -286,7 +287,6 @@
     "Finance/Busyness Law/Busyness Law.md",
     "Mathematics/Անալիտիկ երկրաչափություն/Անալիտիկ երկրաչափություն.md",
     "Mathematics/Անալիտիկ երկրաչափություն/Բազային Երկրաչափություն.md",
-    "Mathematics/Հավ․ տես/Հավ․ տես.md",
     "Docs/Pasted image 20250202120707.png",
     "Docs/Pasted image 20250201182156.png",
     "Pasted image 20250304213239.png",
