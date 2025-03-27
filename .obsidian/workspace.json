@@ -16,9 +16,9 @@
               "state": {
                 "file": "Secure/2025.canvas",
                 "viewState": {
-                  "x": 892.2903177903879,
-                  "y": 249.4938973684327,
-                  "zoom": -1.5609124830855872
+                  "x": 319.7725158846373,
+                  "y": -1465.8866994407438,
+                  "zoom": -1.0747463203752847
                 }
               },
               "pinned": true,
@@ -67,8 +67,7 @@
               "title": "ANQA"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,10 +258,10 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "1ef20b961b19997f",
+  "active": "76712339726a26d5",
   "lastOpenFiles": [
-    "Secure/2025.canvas",
     "ANQA.md",
+    "Secure/2025.canvas",
     "Secure/Kanban.md",
     "Mathematics/Հավ․ տես/Հավ․ տես.md",
     "Mathematics/MATHEMATICS.md",
