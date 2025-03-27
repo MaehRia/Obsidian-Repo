@@ -16,9 +16,9 @@
               "state": {
                 "file": "Secure/2025.canvas",
                 "viewState": {
-                  "x": 205.33976196542466,
-                  "y": -1042.4942132975848,
-                  "zoom": -1.0991128709930913
+                  "x": 294.264122741217,
+                  "y": -250.77929441484713,
+                  "zoom": -1.0327991199214106
                 }
               },
               "pinned": true,
@@ -53,8 +53,7 @@
               "title": "Kanban"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,12 +244,12 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "319f50131af70c37",
+  "active": "76712339726a26d5",
   "lastOpenFiles": [
-    "Students/Կամո Մկրտչյան.md",
-    "Secure/2025.canvas",
     "Secure/Kanban.md",
     "Secure/AI.md",
+    "Secure/2025.canvas",
+    "Students/Կամո Մկրտչյան.md",
     "Students/Լիանա Ավետյան.md",
     "Languages/English/Vocabulary.md",
     "Secure/Secure.md",
