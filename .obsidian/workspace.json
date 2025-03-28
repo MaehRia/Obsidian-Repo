@@ -16,8 +16,8 @@
               "state": {
                 "file": "Secure/2025.canvas",
                 "viewState": {
-                  "x": 319.7725158846373,
-                  "y": -1465.8866994407438,
+                  "x": 435.34803169492136,
+                  "y": -353.227496385806,
                   "zoom": -1.0747463203752847
                 }
               },
@@ -258,7 +258,7 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "76712339726a26d5",
+  "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
     "ANQA.md",
     "Secure/2025.canvas",
