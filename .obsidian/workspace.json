@@ -16,9 +16,9 @@
               "state": {
                 "file": "Secure/2025.canvas",
                 "viewState": {
-                  "x": 645.3395473751539,
-                  "y": 226.79012191814002,
-                  "zoom": -1.106709047961713
+                  "x": 14.765856694512024,
+                  "y": -1576.081883897892,
+                  "zoom": -0.04340082407840389
                 }
               },
               "pinned": true,
@@ -67,8 +67,7 @@
               "title": "Investment"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,7 +258,7 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "f163e58bc4dbe995",
+  "active": "76712339726a26d5",
   "lastOpenFiles": [
     "Investment.md",
     "Secure/2025.canvas",
