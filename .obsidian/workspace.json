@@ -52,37 +52,9 @@
               "icon": "lucide-trello",
               "title": "Kanban"
             }
-          },
-          {
-            "id": "f163e58bc4dbe995",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Investment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Investment"
-            }
-          },
-          {
-            "id": "64f8e0bba984e526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Students/Լիանա Ավետյան.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Լիանա Ավետյան"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,9 +244,10 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "64f8e0bba984e526",
+  "active": "319f50131af70c37",
   "lastOpenFiles": [
     "Investment.md",
+    "Students/Լիանա Ավետյան.md",
     "Mathematics/Հավ․ տես/1․Հավանականությունների տեսության հիմնական հասկացությունները.md",
     "Mathematics/Հավ․ տես/Հավ․ տես.md",
     "Mathematics/Applied Statistics.md",
@@ -289,7 +262,6 @@
     "Secure/Secure.md",
     "Secure/2025.md",
     "Secure/AI.md",
-    "Students/Լիանա Ավետյան.md",
     "Languages/English/Vocabulary.md",
     "Programming/Machine learning.md",
     "Programming/Python/Python.md",
