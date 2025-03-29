@@ -16,8 +16,8 @@
               "state": {
                 "file": "Secure/2025.canvas",
                 "viewState": {
-                  "x": 362.1129002691509,
-                  "y": -740.2505162520224,
+                  "x": 992.7326269198009,
+                  "y": -324.4070733157243,
                   "zoom": -1.2967994118715165
                 }
               },
@@ -53,8 +53,7 @@
               "title": "Kanban"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,8 +243,9 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "319f50131af70c37",
+  "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
+    "Secure/Kanban.md",
     "Investment.md",
     "Students/Լիանա Ավետյան.md",
     "Mathematics/Հավ․ տես/1․Հավանականությունների տեսության հիմնական հասկացությունները.md",
@@ -255,7 +255,6 @@
     "Mathematics/MATHEMATICS.md",
     "Students/Կամո Մկրտչյան.md",
     "Secure/2025.canvas",
-    "Secure/Kanban.md",
     "Students/Students.md",
     "ANQA.md",
     "Programming/Programming.md",
