@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "4b42814828976366",
@@ -261,16 +260,16 @@
   },
   "active": "a54024c4f33edc38",
   "lastOpenFiles": [
+    "Students/Կամո Մկրտչյան.md",
+    "Students/Լիանա Ավետյան.md",
     "Secure/2025.canvas",
     "Secure/Kanban.md",
     "Investment.md",
-    "Students/Լիանա Ավետյան.md",
     "Mathematics/Հավ․ տես/1․Հավանականությունների տեսության հիմնական հասկացությունները.md",
     "Mathematics/Հավ․ տես/Հավ․ տես.md",
     "Mathematics/Applied Statistics.md",
     "Mathematics/Algebra.md",
     "Mathematics/MATHEMATICS.md",
-    "Students/Կամո Մկրտչյան.md",
     "Students/Students.md",
     "ANQA.md",
     "Programming/Programming.md",
