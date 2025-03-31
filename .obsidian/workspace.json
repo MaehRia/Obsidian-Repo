@@ -54,52 +54,21 @@
             }
           },
           {
-            "id": "40c5bcc1060ea513",
+            "id": "feededbef422c9cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/TumoLabs.md",
+                "file": "Students/Կամո Մկրտչյան.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TumoLabs"
-            }
-          },
-          {
-            "id": "a54024c4f33edc38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secure/AI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AI"
-            }
-          },
-          {
-            "id": "cf407ee0db6d4bec",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Secure/2025.canvas",
-                "viewState": {
-                  "x": 991.1393310917658,
-                  "y": 939.8941957589136,
-                  "zoom": -0.8154189103249448
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "2025"
+              "title": "Կամո Մկրտչյան"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "4b42814828976366",
@@ -290,13 +258,16 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "cf407ee0db6d4bec",
+  "active": "feededbef422c9cf",
   "lastOpenFiles": [
-    "Programming/TumoLabs.md",
-    "ԵԻՊՔ.md",
+    "Students/Students.md",
+    "Languages/English/English.md",
+    "Languages/Languages.md",
+    "Secure/Kanban.md",
     "Secure/AI.md",
     "Secure/2025.canvas",
-    "Secure/Kanban.md",
+    "Programming/TumoLabs.md",
+    "ԵԻՊՔ.md",
     "Finance/Busyness Law/Busyness Law.md",
     "Mathematics/Անալիտիկ երկրաչափություն/Անալիտիկ երկրաչափություն.md",
     "Mathematics/Անալիտիկ երկրաչափություն/Հարթության հավասարումը տարածության մեջ։ Կետի հեռավորությունը հարթությունից.md",
@@ -315,10 +286,7 @@
     "Mathematics/Մաթ․ անալիզ/Մաթ․ անալիզ.md",
     "Mathematics/Applied Statistics.md",
     "Secure/Secure.md",
-    "Students/Students.md",
     "Students/Լիանա Ավետյան.md",
-    "Students/Կամո Մկրտչյան.md",
-    "Investment.md",
     "Docs/Pasted image 20250202120707.png",
     "Docs/Pasted image 20250201182156.png",
     "Pasted image 20250304213239.png",
