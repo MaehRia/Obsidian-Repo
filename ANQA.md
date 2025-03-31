@@ -14,3 +14,19 @@
 Հավատարմագրումը մասնագիտական ուսումնական հաստատությունների և կրթական ծրագրերի կատարողականի և որակի ճանաչումն է, որը հանգեցնում է մատուցվող կրթական ծառայությունների որակի նկատմամբ մասնագիտական կրթության շահակիցների և հասարակության վստահության ձևավորմանը:
 
 Հավատարմագրում շնորհվում է որոշակի ժամկետով, հավաստելով, որ ուսումնական հաստատությունները կամ կրթական ծրագրերն ունեն անհրաժեշտ կարողություն տվյալ ժամանակահատվածում երաշխավորված որակով կրթական գործունեություն իրականացնելու համար: Հավատարմագրումն ենթադրում է, որ հաստատությունը պահպանում է այն չափանիշները, որոնք հնարավորություն են տալիս շրջանավարտներին ձեռք բերել անհրաժեշտ որակավորում մասնագիտական ոլորտում առաջընթաց ունենալու կամ կրթությունն այլ ուսումնական հաստատություններում շարունակելու համար:
+
+
+
+1. inqnaverluc
+
+2. pordagitakamn- zekuyci dzevachap
+
+3. durs en bervum harcer
+
+4. ayci zhmnk stanal patasxanner
+
+5. avelacnum enq zekuycin, kanxavarkac, emtadrutyun --->>> past
+
+6. mi qani or datoxutyunneri hamar, hamakargoxy nshumner e anum ,uxxumner e katarum, commentner
+
+7. myus pordzagetnery kardum en amboxjakany ev anhrazheshtutyan depqum uxxum. Anhrazhesht e hamakargoxi koxmic maqragrum, minch hastatumy
