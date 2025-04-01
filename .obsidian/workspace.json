@@ -16,8 +16,8 @@
               "state": {
                 "file": "Secure/2025.canvas",
                 "viewState": {
-                  "x": 725.1591882728559,
-                  "y": -433.7585596463894,
+                  "x": 1039.3583631539063,
+                  "y": 956.7029822305252,
                   "zoom": -0.9003870733315712
                 }
               },
@@ -67,8 +67,7 @@
               "title": "Կամո Մկրտչյան"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,8 +258,9 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "feededbef422c9cf",
+  "active": "76712339726a26d5",
   "lastOpenFiles": [
+    "Students/Կամո Մկրտչյան.md",
     "Students/Students.md",
     "Languages/English/English.md",
     "Languages/Languages.md",
@@ -287,7 +287,6 @@
     "Mathematics/Մաթ․ անալիզ/Մաթ․ անալիզ.md",
     "Mathematics/Applied Statistics.md",
     "Secure/Secure.md",
-    "Students/Լիանա Ավետյան.md",
     "Docs/Pasted image 20250202120707.png",
     "Docs/Pasted image 20250201182156.png",
     "Pasted image 20250304213239.png",
