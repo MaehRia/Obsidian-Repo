@@ -30,3 +30,7 @@
 6. mi qani or datoxutyunneri hamar, hamakargoxy nshumner e anum ,uxxumner e katarum, commentner
 
 7. myus pordzagetnery kardum en amboxjakany ev anhrazheshtutyan depqum uxxum. Anhrazhesht e hamakargoxi koxmic maqragrum, minch hastatumy
+
+1․ Ի՞նչ է կատարողականը
+2․ Եզրահանգում/եզրակացություն
+3․ ՌԾ-ի հետ կապված հարցումներ
