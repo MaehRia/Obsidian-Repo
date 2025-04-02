@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "4b42814828976366",
@@ -272,8 +273,9 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "e5d8fcf051c444c9",
+  "active": "feededbef422c9cf",
   "lastOpenFiles": [
+    "ANQA.md",
     "Secure/2025.canvas",
     "Students/Կամո Մկրտչյան.md",
     "Students/Students.md",
