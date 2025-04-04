@@ -16,9 +16,9 @@
               "state": {
                 "file": "Secure/2025.canvas",
                 "viewState": {
-                  "x": 1016.95303466792,
-                  "y": 879.9194277766251,
-                  "zoom": -0.6201890527144237
+                  "x": 1077.9742017849344,
+                  "y": 166.29775352965726,
+                  "zoom": -1.10065188286058
                 }
               },
               "pinned": true,
@@ -81,7 +81,8 @@
               "title": "ANQA"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "right": {
     "id": "4b42814828976366",
@@ -273,11 +275,11 @@
   },
   "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
+    "Secure/2025.canvas",
     "Students/Լիանա Ավետյան.md",
     "Students/Students.md",
     "Students/Կամո Մկրտչյան.md",
     "ANQA.md",
-    "Secure/2025.canvas",
     "Languages/English/English.md",
     "Languages/Languages.md",
     "Secure/Kanban.md",
@@ -299,7 +301,6 @@
     "Mathematics/Հավ․ տես/3․Հավանականության դասական սահմանում, գումարման թեորեմներ, երկրաչափական.md",
     "Mathematics/Հավ․ տես/Հավ․ տես.md",
     "Mathematics/Հավ․ տես/1․Հավանականությունների տեսության հիմնական հասկացությունները.md",
-    "Mathematics/Մաթ․ անալիզ/Մաթ․ անալիզ.md",
     "Docs/Pasted image 20250202120707.png",
     "Docs/Pasted image 20250201182156.png",
     "Pasted image 20250304213239.png",
