@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Students/Լիանա Ավետյան.md",
+                "file": "Students/Կամո Մկրտչյան.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Լիանա Ավետյան"
+              "title": "Կամո Մկրտչյան"
             }
           },
           {
@@ -273,10 +273,10 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "4af3b6aa8bcf0822",
+  "active": "feededbef422c9cf",
   "lastOpenFiles": [
-    "Secure/2025.canvas",
     "Students/Լիանա Ավետյան.md",
+    "Secure/2025.canvas",
     "Students/Students.md",
     "Students/Կամո Մկրտչյան.md",
     "ANQA.md",
