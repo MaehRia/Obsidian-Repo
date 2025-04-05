@@ -139,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "4b42814828976366",
@@ -273,7 +272,7 @@
       "publish:Publish changes...": true
     }
   },
-  "active": "feededbef422c9cf",
+  "active": "4af3b6aa8bcf0822",
   "lastOpenFiles": [
     "Students/Լիանա Ավետյան.md",
     "Secure/2025.canvas",
