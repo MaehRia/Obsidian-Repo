@@ -16,8 +16,8 @@
               "state": {
                 "file": "Secure/2025.canvas",
                 "viewState": {
-                  "x": 1077.9742017849344,
-                  "y": 166.29775352965726,
+                  "x": 812.7190539551204,
+                  "y": -352.24614448351264,
                   "zoom": -1.10065188286058
                 }
               },
@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Students/Լիանա Ավետյան.md",
+                "file": "Students/Կամո Մկրտչյան.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Լիանա Ավետյան"
+              "title": "Կամո Մկրտչյան"
             }
           },
           {
@@ -275,14 +275,14 @@
   },
   "active": "feededbef422c9cf",
   "lastOpenFiles": [
-    "Students/Կամո Մկրտչյան.md",
     "Students/Լիանա Ավետյան.md",
+    "Secure/Kanban.md",
     "Secure/2025.canvas",
+    "Students/Կամո Մկրտչյան.md",
     "Students/Students.md",
     "ANQA.md",
     "Languages/English/English.md",
     "Languages/Languages.md",
-    "Secure/Kanban.md",
     "Secure/AI.md",
     "Programming/TumoLabs.md",
     "ԵԻՊՔ.md",
